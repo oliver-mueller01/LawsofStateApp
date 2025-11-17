@@ -48,7 +48,7 @@ export default function GesetzePage() {
   }))
 
   return (
-    <div className="min-h-screen bg-[#041e41]">
+    <div className="min-h-screen bg-[#071b35]">
       <div className="container mx-auto px-4 py-12 max-w-5xl">
         <div className="text-center mb-12">
           <div className="flex justify-center mb-4">
@@ -59,6 +59,9 @@ export default function GesetzePage() {
           <h1 className="text-4xl font-bold mb-3 text-balance text-white">San Andreas State Legal Code</h1>
           <p className="text-muted-foreground text-lg text-balance text-white">
             Vollständige Gesetzessammlung des Staates San Andreas
+          </p>
+          <p className="mt-2 text-muted-foreground text-nd text-balance text-white">
+            Letzte Aktualisierung: 17.11.2025 - 22:30 Uhr
           </p>
         </div>
 

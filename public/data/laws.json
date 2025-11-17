@@ -24,20 +24,20 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 3 Versuch",
-        "body": "<p class=\"ql-align-justify\"><span style=\"color: rgb(255, 255, 255); background-color: transparent;\">(1)&nbsp;Eine&nbsp;Straftat&nbsp;versucht,&nbsp;wer&nbsp;nach&nbsp;seiner&nbsp;Vorstellung&nbsp;von&nbsp;der&nbsp;Tat&nbsp;zur&nbsp;Verwirklichung&nbsp;des&nbsp;Tatbestands&nbsp;unmittelbar&nbsp;ansetzt.&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(255, 255, 255);\">(2)&nbsp;Der&nbsp;Versuch&nbsp;einer&nbsp;Straftat&nbsp;oder&nbsp;die&nbsp;Beteiligung&nbsp;am&nbsp;Versuch&nbsp;ist&nbsp;strafbar&nbsp;und&nbsp;kann&nbsp;milder&nbsp;bestraft&nbsp;werden&nbsp;als&nbsp;die&nbsp;vollendete&nbsp;Tat.</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(255, 255, 255);\">(3)&nbsp;Entscheidet&nbsp;das&nbsp;Gericht&nbsp;für&nbsp;eine&nbsp;mildere&nbsp;Strafe,&nbsp;so&nbsp;kann&nbsp;es&nbsp;eine&nbsp;Geldstrafe&nbsp;unterhalb&nbsp;der&nbsp;im&nbsp;Gesetz&nbsp;genannten&nbsp;Mindeststrafe&nbsp;verhängen.</span></p><p></p>",
+        "body": "<p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(1)&nbsp;Eine&nbsp;Straftat&nbsp;versucht,&nbsp;wer&nbsp;nach&nbsp;seiner&nbsp;Vorstellung&nbsp;von&nbsp;der&nbsp;Tat&nbsp;zur&nbsp;Verwirklichung&nbsp;des&nbsp;Tatbestands&nbsp;unmittelbar&nbsp;ansetzt.&nbsp;</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2)&nbsp;Der&nbsp;Versuch&nbsp;einer&nbsp;Straftat&nbsp;oder&nbsp;die&nbsp;Beteiligung&nbsp;am&nbsp;Versuch&nbsp;ist&nbsp;strafbar&nbsp;und&nbsp;kann&nbsp;milder&nbsp;bestraft&nbsp;werden&nbsp;als&nbsp;die&nbsp;vollendete&nbsp;Tat.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(3)&nbsp;Entscheidet&nbsp;das&nbsp;Gericht&nbsp;für&nbsp;eine&nbsp;mildere&nbsp;Strafe,&nbsp;so&nbsp;kann&nbsp;es&nbsp;eine&nbsp;Geldstrafe&nbsp;unterhalb&nbsp;der&nbsp;im&nbsp;Gesetz&nbsp;genannten&nbsp;Mindeststrafe&nbsp;verhängen.</span></p>",
         "fineAmountMin": 0.00,
         "fineAmountMax": 2.00,
-        "updatedUtc": "2025-11-02T11:45:36.9692050Z"
+        "updatedUtc": "2025-11-13T12:03:59.7034290Z"
     },
     {
         "id": "d735b9e2-bf07-4cd1-80cf-9aad32e4c911",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 4 Notwehr, Rechtfertigender Notstand",
-        "body": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(255, 255, 255);\">(1)&nbsp;Eine&nbsp;Handlung&nbsp;ist&nbsp;nicht&nbsp;rechtswidrig,&nbsp;wenn&nbsp;sie&nbsp;erforderlich&nbsp;ist,&nbsp;um&nbsp;einen&nbsp;gegenwärtigen&nbsp;rechtswidrigen&nbsp;Angriff&nbsp;von&nbsp;sich&nbsp;oder&nbsp;einem&nbsp;Dritten&nbsp;abzuwenden.</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(255, 255, 255);\">(2)&nbsp;Eine&nbsp;Handlung,&nbsp;die&nbsp;begangen&nbsp;wird,&nbsp;um&nbsp;eine&nbsp;Gefahr&nbsp;für&nbsp;Leben,&nbsp;Gesundheit,&nbsp;Eigentum&nbsp;oder&nbsp;ein&nbsp;anderes&nbsp;bedeutendes&nbsp;Rechtsgut&nbsp;abzuwenden,&nbsp;ist&nbsp;nicht&nbsp;rechtswidrig,&nbsp;wenn&nbsp;der&nbsp;verursachte&nbsp;Schaden&nbsp;im&nbsp;Verhältnis&nbsp;zur&nbsp;drohenden&nbsp;Gefahr&nbsp;steht.</span></p><p></p>",
+        "body": "<p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(1)&nbsp;Eine&nbsp;Handlung&nbsp;ist&nbsp;nicht&nbsp;rechtswidrig,&nbsp;wenn&nbsp;sie&nbsp;erforderlich&nbsp;ist,&nbsp;um&nbsp;einen&nbsp;gegenwärtigen&nbsp;rechtswidrigen&nbsp;Angriff&nbsp;von&nbsp;sich&nbsp;oder&nbsp;einem&nbsp;Dritten&nbsp;abzuwenden.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2)&nbsp;Eine&nbsp;Handlung,&nbsp;die&nbsp;begangen&nbsp;wird,&nbsp;um&nbsp;eine&nbsp;Gefahr&nbsp;für&nbsp;Leben,&nbsp;Gesundheit,&nbsp;Eigentum&nbsp;oder&nbsp;ein&nbsp;anderes&nbsp;bedeutendes&nbsp;Rechtsgut&nbsp;abzuwenden,&nbsp;ist&nbsp;nicht&nbsp;rechtswidrig,&nbsp;wenn&nbsp;der&nbsp;verursachte&nbsp;Schaden&nbsp;im&nbsp;Verhältnis&nbsp;zur&nbsp;drohenden&nbsp;Gefahr&nbsp;steht.</span></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-20T21:31:47.6268070Z"
+        "updatedUtc": "2025-11-13T12:04:04.0516680Z"
     },
     {
         "id": "89add494-f347-48bf-bf77-f3cb5bf7c155",
@@ -54,40 +54,40 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 6 Arten der Strafen und Maßnahmen",
-        "body": "<p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(1)&nbsp;Strafen&nbsp;werden&nbsp;mit&nbsp;Geldstrafe&nbsp;und/oder&nbsp;Freiheitsstrafe&nbsp;geahndet.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2)&nbsp;Werden&nbsp;mehrere&nbsp;Straftaten&nbsp;begangen,&nbsp;so&nbsp;wird&nbsp;für&nbsp;jede&nbsp;Tat&nbsp;eine&nbsp;Einzelstrafe&nbsp;festgesetzt.&nbsp;Anschließend&nbsp;wird&nbsp;aus&nbsp;den&nbsp;Einzelstrafen&nbsp;eine&nbsp;angemessene&nbsp;Gesamtstrafe&nbsp;gebildet.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(3) Bußgelder und Straftaten bis 3,000 Dollar Geldstrafe können vom Police Department abgehandelt werden.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(4) Straftaten und Strafen ab einer Gesamtstrafe von 3,000 Dollar müssen durch das District Attorney's Office bearbeitet werden.&nbsp;</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(5)&nbsp;Die&nbsp;für&nbsp;die&nbsp;Abhandlung&nbsp;zuständige&nbsp;Behörde&nbsp;kann&nbsp;abweichend&nbsp;eine&nbsp;andere,&nbsp;dem&nbsp;Gesetz&nbsp;entsprechende&nbsp;Sanktion&nbsp;anordnen,&nbsp;sofern&nbsp;sie&nbsp;nach&nbsp;Art,&nbsp;Schwere&nbsp;und&nbsp;Umständen&nbsp;der&nbsp;Tat&nbsp;sowie&nbsp;der&nbsp;Persönlichkeit&nbsp;des&nbsp;Täters&nbsp;als&nbsp;angemessen&nbsp;erscheint.</span></p><p>&nbsp;</p>",
+        "body": "<p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(1)&nbsp;Strafen&nbsp;werden&nbsp;mit&nbsp;Geldstrafe&nbsp;und/oder&nbsp;Freiheitsstrafe&nbsp;geahndet.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2)&nbsp;Werden&nbsp;mehrere&nbsp;Straftaten&nbsp;begangen,&nbsp;so&nbsp;wird&nbsp;für&nbsp;jede&nbsp;Tat&nbsp;eine&nbsp;Einzelstrafe&nbsp;festgesetzt.&nbsp;Anschließend&nbsp;wird&nbsp;aus&nbsp;den&nbsp;Einzelstrafen&nbsp;eine&nbsp;angemessene&nbsp;Gesamtstrafe&nbsp;gebildet.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(3) Bußgelder und Straftaten bis 3,000 Dollar Geldstrafe können vom Police Department abgehandelt werden.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(4) Straftaten und Strafen ab einer Gesamtstrafe von 3,000 Dollar müssen durch das District Attorney's Office bearbeitet werden.&nbsp;</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(5)&nbsp;Die&nbsp;für&nbsp;die&nbsp;Abhandlung&nbsp;zuständige&nbsp;Behörde&nbsp;kann&nbsp;abweichend&nbsp;eine&nbsp;andere,&nbsp;dem&nbsp;Gesetz&nbsp;entsprechende&nbsp;Sanktion&nbsp;anordnen,&nbsp;sofern&nbsp;sie&nbsp;nach&nbsp;Art,&nbsp;Schwere&nbsp;und&nbsp;Umständen&nbsp;der&nbsp;Tat&nbsp;sowie&nbsp;der&nbsp;Persönlichkeit&nbsp;des&nbsp;Täters&nbsp;als&nbsp;angemessen&nbsp;erscheint.</span></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-26T18:35:38.2096170Z"
+        "updatedUtc": "2025-11-13T12:04:11.1014070Z"
     },
     {
         "id": "73634f17-49fa-4a74-8e28-5c90612d01e6",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 6a Ersatzhaft und Umrechnung",
-        "body": "<p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(1)&nbsp;Die&nbsp;betroffene&nbsp;Person&nbsp;kann&nbsp;wählen,&nbsp;ob&nbsp;sie&nbsp;die&nbsp;Geldstrafe&nbsp;bezahlt&nbsp;oder&nbsp;eine&nbsp;entsprechende&nbsp;Haftstrafe&nbsp;verbüßt.&nbsp;Gerichtlich&nbsp;auferlegte&nbsp;Haftstrafen&nbsp;sind&nbsp;zu&nbsp;verbüßen.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2)&nbsp;Die&nbsp;Umrechnung&nbsp;erfolgt&nbsp;nach&nbsp;dem&nbsp;Verhältnis&nbsp;100&nbsp;Dollar&nbsp;=&nbsp;1&nbsp;Minute&nbsp;Haftzeit.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(3)&nbsp;Leistet&nbsp;die&nbsp;betroffene&nbsp;Person&nbsp;die&nbsp;Geldstrafe&nbsp;nicht,&nbsp;wird&nbsp;automatisch&nbsp;Ersatzhaft&nbsp;in&nbsp;gleicher&nbsp;Höhe&nbsp;vollstreckt.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(4)&nbsp;Bei&nbsp;besonders&nbsp;schweren&nbsp;Fällen&nbsp;kann&nbsp;das&nbsp;Gericht&nbsp;eine&nbsp;Kombination&nbsp;aus&nbsp;Geld-&nbsp;und&nbsp;Haftstrafe&nbsp;festsetzen.</span></p><p>&nbsp;</p>",
+        "body": "<p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(1)&nbsp;Die&nbsp;betroffene&nbsp;Person&nbsp;kann&nbsp;wählen,&nbsp;ob&nbsp;sie&nbsp;die&nbsp;Geldstrafe&nbsp;bezahlt&nbsp;oder&nbsp;eine&nbsp;entsprechende&nbsp;Haftstrafe&nbsp;verbüßt.&nbsp;Gerichtlich&nbsp;auferlegte&nbsp;Haftstrafen&nbsp;sind&nbsp;zu&nbsp;verbüßen.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2)&nbsp;Die&nbsp;Umrechnung&nbsp;erfolgt&nbsp;nach&nbsp;dem&nbsp;Verhältnis&nbsp;100&nbsp;Dollar&nbsp;=&nbsp;1&nbsp;Minute&nbsp;Haftzeit.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(3)&nbsp;Leistet&nbsp;die&nbsp;betroffene&nbsp;Person&nbsp;die&nbsp;Geldstrafe&nbsp;nicht,&nbsp;wird&nbsp;automatisch&nbsp;Ersatzhaft&nbsp;in&nbsp;gleicher&nbsp;Höhe&nbsp;vollstreckt.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(4)&nbsp;Bei&nbsp;besonders&nbsp;schweren&nbsp;Fällen&nbsp;kann&nbsp;das&nbsp;Gericht&nbsp;eine&nbsp;Kombination&nbsp;aus&nbsp;Geld-&nbsp;und&nbsp;Haftstrafe&nbsp;festsetzen.</span></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-30T17:18:22.5786080Z"
+        "updatedUtc": "2025-11-13T12:04:18.5065050Z"
     },
     {
         "id": "6357d94b-bd26-4b61-8d60-c5aeb2c580eb",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§7  Bereicherung durch eine Straftat",
-        "body": "<p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(255, 255, 255);\">(1)&nbsp;Wer&nbsp;sich&nbsp;durch&nbsp;eine&nbsp;Straftat&nbsp;bereichert,&nbsp;indem&nbsp;er&nbsp;rechtswidrig&nbsp;Geld&nbsp;oder&nbsp;legale&nbsp;Gegenstände&nbsp;erlangt,&nbsp;so&nbsp;kann&nbsp;ein&nbsp;Gericht&nbsp;diese&nbsp;sicherstellen&nbsp;lassen&nbsp;und&nbsp;die&nbsp;Rückgabe&nbsp;an&nbsp;den&nbsp;Eigentümer&nbsp;anordnen.&nbsp;Ist&nbsp;der&nbsp;Eigentümer&nbsp;nicht&nbsp;bekannt,&nbsp;gehen&nbsp;die&nbsp;Tatmittel&nbsp;ins&nbsp;Staatseigentum&nbsp;über.&nbsp;&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent; color: rgb(255, 255, 255);\">(2)&nbsp;Werden&nbsp;Gegenstände&nbsp;durch&nbsp;rechtswidrig&nbsp;erlangte&nbsp;Geldmittel&nbsp;angeschafft,&nbsp;so&nbsp;kann&nbsp;ein&nbsp;Gericht&nbsp;diese&nbsp;Gegenstände&nbsp;sicherstellen&nbsp;lassen&nbsp;und&nbsp;sie&nbsp;gehen&nbsp;in&nbsp;den&nbsp;Staatsbesitz&nbsp;über.</span></p><p></p>",
+        "body": "<p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(1)&nbsp;Wer&nbsp;sich&nbsp;durch&nbsp;eine&nbsp;Straftat&nbsp;bereichert,&nbsp;indem&nbsp;er&nbsp;rechtswidrig&nbsp;Geld&nbsp;oder&nbsp;legale&nbsp;Gegenstände&nbsp;erlangt,&nbsp;so&nbsp;kann&nbsp;ein&nbsp;Gericht&nbsp;diese&nbsp;sicherstellen&nbsp;lassen&nbsp;und&nbsp;die&nbsp;Rückgabe&nbsp;an&nbsp;den&nbsp;Eigentümer&nbsp;anordnen.&nbsp;Ist&nbsp;der&nbsp;Eigentümer&nbsp;nicht&nbsp;bekannt,&nbsp;gehen&nbsp;die&nbsp;Tatmittel&nbsp;ins&nbsp;Staatseigentum&nbsp;über.&nbsp;&nbsp;</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2)&nbsp;Werden&nbsp;Gegenstände&nbsp;durch&nbsp;rechtswidrig&nbsp;erlangte&nbsp;Geldmittel&nbsp;angeschafft,&nbsp;so&nbsp;kann&nbsp;ein&nbsp;Gericht&nbsp;diese&nbsp;Gegenstände&nbsp;sicherstellen&nbsp;lassen&nbsp;und&nbsp;sie&nbsp;gehen&nbsp;in&nbsp;den&nbsp;Staatsbesitz&nbsp;über.</span></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-20T21:35:19.1118370Z"
+        "updatedUtc": "2025-11-13T12:04:24.2064920Z"
     },
     {
         "id": "89807a14-9b40-4f2b-9591-02115f80e855",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§8  Verjährung von Straftaten",
-        "body": "<p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(1)&nbsp;Die&nbsp;Verjährungsfrist&nbsp;beträgt:</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">1&nbsp;Monat&nbsp;für&nbsp;alle&nbsp;Straftaten</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">2&nbsp;Wochen&nbsp;für&nbsp;Verstöße&nbsp;gegen&nbsp;den&nbsp;Narcotics&nbsp;Code&nbsp;und&nbsp;den&nbsp;Weapons&nbsp;Code.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">1&nbsp;Woche&nbsp;für&nbsp;Verstöße&nbsp;gegen&nbsp;den&nbsp;Traffic&nbsp;Code.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2)&nbsp;Die&nbsp;Verjährung&nbsp;beginnt&nbsp;mit&nbsp;dem&nbsp;Tag&nbsp;der&nbsp;Tat&nbsp;oder&nbsp;bei&nbsp;unklarem&nbsp;Tatdatum&nbsp;mit&nbsp;Bekanntwerden&nbsp;der&nbsp;Straftat.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2a) Die Verjährungsfrist kann durch einen Antrag auf Verlängerung des District Attorney's Office durch den State Court einmalig um 14 Tage verlängert werden.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(3)&nbsp;Straftaten&nbsp;gegen&nbsp;den&nbsp;Staat&nbsp;sowie&nbsp;Mord&nbsp;verjähren&nbsp;nicht.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(4)&nbsp;Die&nbsp;Verjährung&nbsp;wird&nbsp;unterbrochen&nbsp;durch&nbsp;eine&nbsp;bei&nbsp;Gericht&nbsp;eingereichte Anklageschrift.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(5)&nbsp;Urteile,&nbsp;Bußgelder&nbsp;und&nbsp;Strafbefehle&nbsp;verjähren&nbsp;nicht.&nbsp;</span></p><p>&nbsp;</p>",
+        "body": "<p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(1)&nbsp;Die&nbsp;Verjährungsfrist&nbsp;beträgt:</span></p><ul><li class=\"ck-list-marker-color\" style=\"--ck-content-list-marker-color:rgb(255,255,255);\" data-list-item-id=\"e1f7a0a3044b392bc1aa3afa55f93821a\"><span style=\"background-color:transparent;color:rgb(255,255,255);\">1&nbsp;Monat&nbsp;für&nbsp;alle&nbsp;Straftaten</span></li><li class=\"ck-list-marker-color\" style=\"--ck-content-list-marker-color:rgb(255,255,255);\" data-list-item-id=\"ebee92d201eee335c8f787133bdb99c34\"><span style=\"background-color:transparent;color:rgb(255,255,255);\">2&nbsp;Wochen&nbsp;für&nbsp;Verstöße&nbsp;gegen&nbsp;den&nbsp;Narcotics&nbsp;Code&nbsp;und&nbsp;den&nbsp;Weapons&nbsp;Code.</span></li><li class=\"ck-list-marker-color\" style=\"--ck-content-list-marker-color:rgb(255,255,255);\" data-list-item-id=\"ef3fe74350106885ce5da5f9e69763d39\"><span style=\"background-color:transparent;color:rgb(255,255,255);\">1&nbsp;Woche&nbsp;für&nbsp;Verstöße&nbsp;gegen&nbsp;den&nbsp;Traffic&nbsp;Code.</span></li></ul><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2)&nbsp;Die&nbsp;Verjährung&nbsp;beginnt&nbsp;mit&nbsp;dem&nbsp;Tag&nbsp;der&nbsp;Tat&nbsp;oder&nbsp;bei&nbsp;unklarem&nbsp;Tatdatum&nbsp;mit&nbsp;Bekanntwerden&nbsp;der&nbsp;Straftat.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(2a) Die Verjährungsfrist kann durch einen Antrag auf Verlängerung des District Attorney's Office durch den State Court einmalig um 14 Tage verlängert werden.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(3)&nbsp;Straftaten&nbsp;gegen&nbsp;den&nbsp;Staat&nbsp;sowie&nbsp;Mord&nbsp;verjähren&nbsp;nicht.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(4)&nbsp;Die&nbsp;Verjährung&nbsp;wird&nbsp;unterbrochen&nbsp;durch&nbsp;eine&nbsp;bei&nbsp;Gericht&nbsp;eingereichte Anklageschrift.</span></p><p><span style=\"background-color:transparent;color:rgb(255,255,255);\">(5)&nbsp;Urteile,&nbsp;Bußgelder&nbsp;und&nbsp;Strafbefehle&nbsp;verjähren&nbsp;nicht.&nbsp;</span></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-25T23:24:46.9739200Z"
+        "updatedUtc": "2025-11-13T12:19:31.4331280Z"
     },
     {
         "id": "be8ecb5e-5238-4a5b-93c4-20d7483b0fed",
@@ -104,50 +104,50 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§9 Hochverrat",
-        "body": "<p><span style=\"background-color:transparent;\">(1)&nbsp;Wer&nbsp;mit&nbsp;Gewalt&nbsp;oder&nbsp;durch&nbsp;andere&nbsp;Handlungen&nbsp;versucht,&nbsp;die&nbsp;staatliche&nbsp;Ordnung&nbsp;von&nbsp;San&nbsp;Andreas&nbsp;zu&nbsp;beseitigen&nbsp;oder&nbsp;erheblich&nbsp;zu&nbsp;schwächen,&nbsp;macht&nbsp;sich&nbsp;des&nbsp;Hochverrats&nbsp;schuldig.</span></p><p><span style=\"background-color:transparent;\">(2)&nbsp;Eine&nbsp;erhebliche&nbsp;Schwächung&nbsp;liegt&nbsp;vor,&nbsp;wenn&nbsp;Täter</span></p><ol><li data-list-item-id=\"e9e1f919c4e25d745caf3fb733166d35c\"><span style=\"background-color:transparent;\">eine&nbsp;der&nbsp;drei&nbsp;Staatsgewalten&nbsp;handlungsunfähig&nbsp;macht&nbsp;oder&nbsp;zu&nbsp;einer&nbsp;Handlung&nbsp;zwingt,</span></li><li data-list-item-id=\"eb6141982785c294b967f9b1bf93cc561\"><span style=\"background-color:transparent;\">die&nbsp;öffentliche&nbsp;Sicherheit&nbsp;oder&nbsp;das&nbsp;medizinische&nbsp;Versorgungssystem&nbsp;des&nbsp;Staates&nbsp;lahmlegt&nbsp;oder&nbsp;zerstört,&nbsp;oder</span></li><li data-list-item-id=\"e5b5fbb65cc67c7233942a3a5a73604f5\"><span style=\"background-color:transparent;\">den&nbsp;Fortbestand&nbsp;des&nbsp;Staates&nbsp;ernsthaft&nbsp;gefährdet.</span></li></ol><p><span style=\"background-color:transparent;\">(3)&nbsp;Hochverrat&nbsp;wird&nbsp;mit&nbsp;&nbsp;20.000&nbsp;$&nbsp;–&nbsp;40.000&nbsp;$&nbsp;und/oder&nbsp;bis&nbsp;zu&nbsp;einer&nbsp;lebenslangen&nbsp;Freiheitsstrafe&nbsp;bestraft.&nbsp;</span></p><p>&nbsp;</p>",
+        "body": "<p><span style=\"background-color:transparent;\">(1)&nbsp;Wer&nbsp;mit&nbsp;Gewalt&nbsp;oder&nbsp;durch&nbsp;andere&nbsp;Handlungen&nbsp;versucht,&nbsp;die&nbsp;staatliche&nbsp;Ordnung&nbsp;von&nbsp;San&nbsp;Andreas&nbsp;zu&nbsp;beseitigen&nbsp;oder&nbsp;erheblich&nbsp;zu&nbsp;schwächen,&nbsp;macht&nbsp;sich&nbsp;des&nbsp;Hochverrats&nbsp;schuldig.</span></p><p><span style=\"background-color:transparent;\">(2)&nbsp;Eine&nbsp;erhebliche&nbsp;Schwächung&nbsp;liegt&nbsp;vor,&nbsp;wenn&nbsp;Täter</span></p><ol><li data-list-item-id=\"e9e1f919c4e25d745caf3fb733166d35c\"><span style=\"background-color:transparent;\">eine&nbsp;der&nbsp;drei&nbsp;Staatsgewalten&nbsp;handlungsunfähig&nbsp;macht&nbsp;oder&nbsp;zu&nbsp;einer&nbsp;Handlung&nbsp;zwingt,</span></li><li data-list-item-id=\"eb6141982785c294b967f9b1bf93cc561\"><span style=\"background-color:transparent;\">die&nbsp;öffentliche&nbsp;Sicherheit&nbsp;oder&nbsp;das&nbsp;medizinische&nbsp;Versorgungssystem&nbsp;des&nbsp;Staates&nbsp;lahmlegt&nbsp;oder&nbsp;zerstört,&nbsp;oder</span></li><li data-list-item-id=\"e5b5fbb65cc67c7233942a3a5a73604f5\"><span style=\"background-color:transparent;\">den&nbsp;Fortbestand&nbsp;des&nbsp;Staates&nbsp;ernsthaft&nbsp;gefährdet.</span></li></ol><p><span style=\"background-color:transparent;\">(3)&nbsp;Hochverrat&nbsp;wird&nbsp;mit&nbsp;&nbsp;20.000&nbsp;$&nbsp;–&nbsp;40.000&nbsp;$&nbsp;und/oder&nbsp;bis&nbsp;zu&nbsp;einer&nbsp;lebenslangen&nbsp;Freiheitsstrafe&nbsp;bestraft.&nbsp;</span></p>",
         "fineAmountMin": 20000.00,
         "fineAmountMax": 40000.00,
-        "updatedUtc": "2025-10-23T22:33:26.3479600Z"
+        "updatedUtc": "2025-11-13T12:04:38.3502940Z"
     },
     {
         "id": "39f89de5-3e0c-4ccc-903d-5d4b6676c310",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§10 Terrorismus",
-        "body": "<p>(1)&nbsp;Wer&nbsp;eine&nbsp;Vereinigung&nbsp;gründet&nbsp;oder&nbsp;angehört,&nbsp;die&nbsp;das&nbsp;Ziel&nbsp;hat,&nbsp;schwere&nbsp;Straftaten&nbsp;zu&nbsp;begehen,&nbsp;welche&nbsp;sich&nbsp;gegen&nbsp;San&nbsp;Andreas&nbsp;oder&nbsp;das&nbsp;Leben&nbsp;seiner&nbsp;Bürger&nbsp;richtet,&nbsp;wird&nbsp;mit&nbsp;bis&nbsp;zu&nbsp;18.000$ – 35.000 $&nbsp;bestraft.&nbsp;<br>(2)&nbsp;Wer&nbsp;eine&nbsp;solche&nbsp;Vereinigung&nbsp;unterstützt,&nbsp;macht&nbsp;sich&nbsp;ebenfalls&nbsp;nach&nbsp;§&nbsp;1&nbsp;strafbar.</p><p>&nbsp;</p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;eine&nbsp;Vereinigung&nbsp;gründet&nbsp;oder&nbsp;angehört,&nbsp;die&nbsp;das&nbsp;Ziel&nbsp;hat,&nbsp;schwere&nbsp;Straftaten&nbsp;zu&nbsp;begehen,&nbsp;welche&nbsp;sich&nbsp;gegen&nbsp;San&nbsp;Andreas&nbsp;oder&nbsp;das&nbsp;Leben&nbsp;seiner&nbsp;Bürger&nbsp;richtet,&nbsp;wird&nbsp;mit&nbsp;bis&nbsp;zu&nbsp;18.000$ – 35.000 $&nbsp;bestraft.&nbsp;<br>(2)&nbsp;Wer&nbsp;eine&nbsp;solche&nbsp;Vereinigung&nbsp;unterstützt,&nbsp;macht&nbsp;sich&nbsp;ebenfalls&nbsp;nach&nbsp;§&nbsp;1&nbsp;strafbar.</p>",
         "fineAmountMin": 18000.00,
         "fineAmountMax": 35000.00,
-        "updatedUtc": "2025-10-24T06:09:00.2725350Z"
+        "updatedUtc": "2025-11-13T12:04:43.3918110Z"
     },
     {
         "id": "90a974db-ca9f-4696-9823-397cb82dd89b",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§11 Offenbarung von Staatsgeheimnissen",
-        "body": "<p>(1)&nbsp;Wer&nbsp;vertrauliche&nbsp;Informationen&nbsp;des&nbsp;Staates&nbsp;oder&nbsp;staatlicher&nbsp;Stellen&nbsp;unbefugt&nbsp;weitergibt&nbsp;oder&nbsp;öffentlich&nbsp;macht,&nbsp;wird&nbsp;mit&nbsp;<span style=\"background-color: transparent; color: rgb(255, 255, 255);\">18.000&nbsp;$&nbsp;–&nbsp;35.000&nbsp;$</span>&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Gefährdet&nbsp;die&nbsp;Weitergabe&nbsp;dieser&nbsp;Informationen&nbsp;den&nbsp;Fortbestand&nbsp;des&nbsp;Staates,&nbsp;so&nbsp;findet&nbsp;§&nbsp;9&nbsp;Criminal&nbsp;Code&nbsp;Anwendung.&nbsp;</p><p>Straftaten&nbsp;gegen&nbsp;die&nbsp;körperliche&nbsp;Unversehrtheit&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;vertrauliche&nbsp;Informationen&nbsp;des&nbsp;Staates&nbsp;oder&nbsp;staatlicher&nbsp;Stellen&nbsp;unbefugt&nbsp;weitergibt&nbsp;oder&nbsp;öffentlich&nbsp;macht,&nbsp;wird&nbsp;mit&nbsp;<span style=\"background-color:transparent;color:rgb(255,255,255);\">18.000&nbsp;$&nbsp;–&nbsp;35.000&nbsp;$</span>&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Gefährdet&nbsp;die&nbsp;Weitergabe&nbsp;dieser&nbsp;Informationen&nbsp;den&nbsp;Fortbestand&nbsp;des&nbsp;Staates,&nbsp;so&nbsp;findet&nbsp;§&nbsp;9&nbsp;Criminal&nbsp;Code&nbsp;Anwendung.&nbsp;</p><p>Straftaten&nbsp;gegen&nbsp;die&nbsp;körperliche&nbsp;Unversehrtheit&nbsp;</p>",
         "fineAmountMin": 18000.00,
         "fineAmountMax": 35000.00,
-        "updatedUtc": "2025-10-24T06:09:42.3683610Z"
+        "updatedUtc": "2025-11-13T12:04:48.7753610Z"
     },
     {
         "id": "18bfe022-8d24-41b4-adf3-6df1fb802e93",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 12 Körperverletzung",
-        "body": "<p>(1)&nbsp;Wer&nbsp;einen&nbsp;anderen&nbsp;Menschen&nbsp;körperlich&nbsp;verletzt,&nbsp;macht&nbsp;sich&nbsp;strafbar.&nbsp;Die&nbsp;Handlung&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Wer&nbsp;sich&nbsp;bei&nbsp;dieser&nbsp;Handlung&nbsp;eines&nbsp;Gegenstandes&nbsp;oder&nbsp;einer&nbsp;Schusswaffe&nbsp;bedient,&nbsp;wird&nbsp;nach&nbsp;dem&nbsp;Maß&nbsp;einer&nbsp;gefährlichen&nbsp;Körperverletzung&nbsp;bestraft.</p><p>(3) Die Körperverletzung wird nur auf Antrag des Geschädigten verfolgt<br>&nbsp;</p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;einen&nbsp;anderen&nbsp;Menschen&nbsp;körperlich&nbsp;verletzt,&nbsp;macht&nbsp;sich&nbsp;strafbar.&nbsp;Die&nbsp;Handlung&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Wer&nbsp;sich&nbsp;bei&nbsp;dieser&nbsp;Handlung&nbsp;eines&nbsp;Gegenstandes&nbsp;oder&nbsp;einer&nbsp;Schusswaffe&nbsp;bedient,&nbsp;wird&nbsp;nach&nbsp;dem&nbsp;Maß&nbsp;einer&nbsp;gefährlichen&nbsp;Körperverletzung&nbsp;bestraft.</p><p>(3) Die Körperverletzung wird nur auf Antrag des Geschädigten verfolgt</p>",
         "fineAmountMin": 1500.00,
         "fineAmountMax": 3000.00,
-        "updatedUtc": "2025-10-30T17:17:58.2948610Z"
+        "updatedUtc": "2025-11-13T12:04:57.9399600Z"
     },
     {
         "id": "0d7be383-67ff-49bf-9d97-e56174297f9f",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 13 gefährliche Körperverletzung",
-        "body": "<p>(1)&nbsp;Wer&nbsp;einen&nbsp;anderen&nbsp;Menschen&nbsp;&nbsp;schwer&nbsp;körperlich&nbsp;verletzt,&nbsp;wird&nbsp;mit&nbsp;4.000&nbsp;$&nbsp;–&nbsp;8.000&nbsp;$&nbsp;bestraft.&nbsp;&nbsp;</p><p>(2)&nbsp;Wer&nbsp;sich&nbsp;bei&nbsp;dieser&nbsp;Handlung&nbsp;eines&nbsp;Gegenstandes&nbsp;oder&nbsp;einer&nbsp;Schusswaffe&nbsp;bedient,&nbsp;wird&nbsp;nach&nbsp;dem&nbsp;Maß&nbsp;einer&nbsp;gefährlichen&nbsp;Körperverletzung&nbsp;in&nbsp;besonders&nbsp;schwerem&nbsp;Fall&nbsp;&nbsp;bestraft.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;einen&nbsp;anderen&nbsp;Menschen&nbsp;&nbsp;schwer&nbsp;körperlich&nbsp;verletzt,&nbsp;wird&nbsp;mit&nbsp;4.000&nbsp;$&nbsp;–&nbsp;8.000&nbsp;$&nbsp;bestraft.&nbsp;&nbsp;</p><p>(2)&nbsp;Wer&nbsp;sich&nbsp;bei&nbsp;dieser&nbsp;Handlung&nbsp;eines&nbsp;Gegenstandes&nbsp;oder&nbsp;einer&nbsp;Schusswaffe&nbsp;bedient,&nbsp;wird&nbsp;nach&nbsp;dem&nbsp;Maß&nbsp;einer&nbsp;gefährlichen&nbsp;Körperverletzung&nbsp;in&nbsp;besonders&nbsp;schwerem&nbsp;Fall&nbsp;&nbsp;bestraft.&nbsp;</p>",
         "fineAmountMin": 4000.00,
         "fineAmountMax": 8000.00,
-        "updatedUtc": "2025-10-24T06:10:07.7398240Z"
+        "updatedUtc": "2025-11-13T12:05:08.2612240Z"
     },
     {
         "id": "e391655e-7fb5-41be-bfc0-cf3b9f3eeb62",
@@ -174,10 +174,10 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 15 Totschlag",
-        "body": "<p>(1)&nbsp;Wer&nbsp;durch&nbsp;eine&nbsp;Handlung&nbsp;einem&nbsp;anderen&nbsp;Menschen&nbsp;das&nbsp;Leben&nbsp;nimmt,&nbsp;ohne&nbsp;ein&nbsp;Mordmerkmal&nbsp;zu&nbsp;erfüllen,&nbsp;wird&nbsp;bestraft&nbsp;mit&nbsp;15.000$ – 35.000$ und oder mit <span style=\"background-color:rgb(31,31,31);color:rgb(232,232,232);\">lebenslänglich</span>.&nbsp;<br>(2)&nbsp;Wer&nbsp;bei&nbsp;dieser&nbsp;Handlung&nbsp;mehr&nbsp;als&nbsp;einen&nbsp;Menschen&nbsp;tötet,&nbsp;wird&nbsp;in&nbsp;besonders&nbsp;schweren&nbsp;Fall&nbsp;mit&nbsp;$15,000 - 35,000$&nbsp;und oder <span style=\"background-color:rgb(31,31,31);color:rgb(232,232,232);\">lebenslänglich </span>bestraft.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;durch&nbsp;eine&nbsp;Handlung&nbsp;einem&nbsp;anderen&nbsp;Menschen&nbsp;das&nbsp;Leben&nbsp;nimmt,&nbsp;ohne&nbsp;ein&nbsp;Mordmerkmal&nbsp;zu&nbsp;erfüllen,&nbsp;wird&nbsp;bestraft&nbsp;mit&nbsp;15.000$ – 35.000$ und oder mit <span style=\"background-color:rgb(31,31,31);color:rgb(232,232,232);\">lebenslänglich</span>.&nbsp;<br>(2)&nbsp;Wer&nbsp;bei&nbsp;dieser&nbsp;Handlung&nbsp;mehr&nbsp;als&nbsp;einen&nbsp;Menschen&nbsp;tötet,&nbsp;wird&nbsp;in&nbsp;besonders&nbsp;schweren&nbsp;Fall&nbsp;mit&nbsp;$15,000 - 35,000$&nbsp;und oder <span style=\"background-color:rgb(31,31,31);color:rgb(232,232,232);\">lebenslänglich </span>bestraft.&nbsp;</p>",
         "fineAmountMin": 15000.00,
         "fineAmountMax": 35000.00,
-        "updatedUtc": "2025-10-24T06:15:12.8641540Z"
+        "updatedUtc": "2025-11-13T12:05:16.0065860Z"
     },
     {
         "id": "3f64b760-8d30-4ea4-a536-380c004d28e1",
@@ -194,20 +194,20 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 17 Körperverletzung mit Todesfolge",
-        "body": "<p>&nbsp;(1)&nbsp;Wer&nbsp;einem&nbsp;anderen&nbsp;Menschen&nbsp;einen&nbsp;so&nbsp;massiven&nbsp;körperlichen&nbsp;Schaden&nbsp;zufügt,&nbsp;dass&nbsp;&nbsp;der&nbsp;Geschädigte&nbsp;zu&nbsp;einem&nbsp;späteren&nbsp;Zeitpunkt&nbsp;seinen&nbsp;Verletzungen&nbsp;erliegt,&nbsp;wird&nbsp;mit&nbsp;13.000&nbsp;$&nbsp;–&nbsp;25.000&nbsp;$&nbsp;bestraft.</p>",
+        "body": "<p>Wer&nbsp;einem&nbsp;anderen&nbsp;Menschen&nbsp;einen&nbsp;so&nbsp;massiven&nbsp;körperlichen&nbsp;Schaden&nbsp;zufügt,&nbsp;dass&nbsp;&nbsp;der&nbsp;Geschädigte&nbsp;zu&nbsp;einem&nbsp;späteren&nbsp;Zeitpunkt&nbsp;seinen&nbsp;Verletzungen&nbsp;erliegt,&nbsp;wird&nbsp;mit&nbsp;13.000&nbsp;$&nbsp;–&nbsp;25.000&nbsp;$&nbsp;bestraft.</p>",
         "fineAmountMin": 13000.00,
         "fineAmountMax": 25000.00,
-        "updatedUtc": "2025-10-24T06:28:35.6738010Z"
+        "updatedUtc": "2025-11-13T12:08:19.9675860Z"
     },
     {
         "id": "19349db7-b491-46f5-b9fd-7e35c99e33e3",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "Straftaten gegen die persönliche Freiheit",
-        "body": "<p>Straftaten&nbsp;gegen&nbsp;die&nbsp;persönliche&nbsp;Freiheit&nbsp;</p><p></p>",
+        "body": "<p>Straftaten&nbsp;gegen&nbsp;die&nbsp;persönliche&nbsp;Freiheit&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-20T22:05:37.8720250Z"
+        "updatedUtc": "2025-11-13T12:05:42.6815700Z"
     },
     {
         "id": "05162dc5-9033-449e-80f7-432acb815f76",
@@ -234,10 +234,10 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 19 Nötigung",
-        "body": "<p>(1)&nbsp;Wer&nbsp;einen&nbsp;Menschen&nbsp;durch&nbsp;Gewalt&nbsp;oder&nbsp;die&nbsp;Drohung&nbsp;mit&nbsp;Gewalt,&nbsp;zur&nbsp;Duldung,&nbsp;Unterlassung&nbsp;oder&nbsp;Ausführung&nbsp;eines&nbsp;Verhaltens&nbsp;zwingt,&nbsp;wird&nbsp;mit&nbsp;2.500&nbsp;$&nbsp;–&nbsp;4.000&nbsp;$&nbsp;bestraft.</p>",
+        "body": "<p>Wer&nbsp;einen&nbsp;Menschen&nbsp;durch&nbsp;Gewalt&nbsp;oder&nbsp;die&nbsp;Drohung&nbsp;mit&nbsp;Gewalt,&nbsp;zur&nbsp;Duldung,&nbsp;Unterlassung&nbsp;oder&nbsp;Ausführung&nbsp;eines&nbsp;Verhaltens&nbsp;zwingt,&nbsp;wird&nbsp;mit&nbsp;2.500&nbsp;$&nbsp;–&nbsp;4.000&nbsp;$&nbsp;bestraft.</p>",
         "fineAmountMin": 2500.00,
         "fineAmountMax": 4000.00,
-        "updatedUtc": "2025-10-24T06:32:09.2815800Z"
+        "updatedUtc": "2025-11-13T12:08:54.3833120Z"
     },
     {
         "id": "64ddccee-bba2-4a59-a38d-230a8d4f9588",
@@ -254,10 +254,10 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 21 Erpressung",
-        "body": "<p>Wer&nbsp;eine&nbsp;Person&nbsp;durch&nbsp;Drohung&nbsp;mit&nbsp;einem&nbsp;empfindlichen&nbsp;Übel&nbsp;oder&nbsp;durch&nbsp;Gewalt&nbsp;zu&nbsp;einer&nbsp;Handlung,Duldung&nbsp;oder&nbsp;Unterlassung&nbsp;nötigt&nbsp;und&nbsp;sich&nbsp;oder&nbsp;einem&nbsp;Dritten&nbsp;dadurch&nbsp;einen&nbsp;Vermögensvorteil&nbsp;verschafft&nbsp;und&nbsp;dem&nbsp;Opfer&nbsp;damit&nbsp;einen&nbsp;erheblichen&nbsp;Schaden&nbsp;zufügt,&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;8.000&nbsp;$ bestraft.</p><p>&nbsp;</p>",
+        "body": "<p>Wer&nbsp;eine&nbsp;Person&nbsp;durch&nbsp;Drohung&nbsp;mit&nbsp;einem&nbsp;empfindlichen&nbsp;Übel&nbsp;oder&nbsp;durch&nbsp;Gewalt&nbsp;zu&nbsp;einer&nbsp;Handlung,Duldung&nbsp;oder&nbsp;Unterlassung&nbsp;nötigt&nbsp;und&nbsp;sich&nbsp;oder&nbsp;einem&nbsp;Dritten&nbsp;dadurch&nbsp;einen&nbsp;Vermögensvorteil&nbsp;verschafft&nbsp;und&nbsp;dem&nbsp;Opfer&nbsp;damit&nbsp;einen&nbsp;erheblichen&nbsp;Schaden&nbsp;zufügt,&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;8.000&nbsp;$ bestraft.</p>",
         "fineAmountMin": 3500.00,
         "fineAmountMax": 8000.00,
-        "updatedUtc": "2025-10-24T06:32:30.2391820Z"
+        "updatedUtc": "2025-11-13T12:09:13.1758880Z"
     },
     {
         "id": "c78dbecc-230b-44e4-bd36-9254ee7b71b4",
@@ -314,10 +314,10 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 25  Missachtung von polizeilichen Anweisung",
-        "body": "<p>Wer&nbsp;wiederholt&nbsp;die&nbsp;rechtmäßige&nbsp;Anweisung&nbsp;der&nbsp;Exekutive&nbsp;vorsätzlich&nbsp;missachtet,&nbsp;wird&nbsp;mit&nbsp;bis&nbsp;zu&nbsp;1.000&nbsp;$&nbsp;bestraft.</p><p>&nbsp;</p>",
+        "body": "<p>Wer&nbsp;wiederholt&nbsp;die&nbsp;rechtmäßige&nbsp;Anweisung&nbsp;der&nbsp;Exekutive&nbsp;vorsätzlich&nbsp;missachtet,&nbsp;wird&nbsp;mit&nbsp;bis&nbsp;zu&nbsp;1.000&nbsp;$&nbsp;bestraft.</p>",
         "fineAmountMin": 0.00,
         "fineAmountMax": 1000.00,
-        "updatedUtc": "2025-10-24T06:41:02.8442470Z"
+        "updatedUtc": "2025-11-13T12:10:08.0286300Z"
     },
     {
         "id": "2d6e0914-2367-4039-9378-a7845d8c1599",
@@ -344,10 +344,10 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 26 Diebstahl",
-        "body": "<p>Wer&nbsp;einem&nbsp;anderen&nbsp;eine&nbsp;Sache&nbsp;wegnimmt,&nbsp;die&nbsp;nicht&nbsp;eigenes&nbsp;Eigentum&nbsp;ist,&nbsp;um&nbsp;sie&nbsp;zu&nbsp;überlassen,&nbsp;zu&nbsp;nutzen&nbsp;oder&nbsp;zu&nbsp;verkaufen,&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.</p><p>&nbsp;</p>",
+        "body": "<p>Wer&nbsp;einem&nbsp;anderen&nbsp;eine&nbsp;Sache&nbsp;wegnimmt,&nbsp;die&nbsp;nicht&nbsp;eigenes&nbsp;Eigentum&nbsp;ist,&nbsp;um&nbsp;sie&nbsp;zu&nbsp;überlassen,&nbsp;zu&nbsp;nutzen&nbsp;oder&nbsp;zu&nbsp;verkaufen,&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.</p>",
         "fineAmountMin": 1500.00,
         "fineAmountMax": 3000.00,
-        "updatedUtc": "2025-10-24T06:43:54.3307580Z"
+        "updatedUtc": "2025-11-13T12:09:01.6743350Z"
     },
     {
         "id": "e55c5fbf-74dc-4ad5-b6c8-364e48082602",
@@ -384,40 +384,40 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 28 Sachbeschädigung",
-        "body": "<p>Wer&nbsp;fremdes&nbsp;oder&nbsp;staatliches&nbsp;Eigentum&nbsp;willentlich&nbsp;beschädigt&nbsp;oder&nbsp;zerstört,&nbsp;wird&nbsp;mit&nbsp;500&nbsp;$&nbsp;–&nbsp;2.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p></p>",
+        "body": "<p>Wer&nbsp;fremdes&nbsp;oder&nbsp;staatliches&nbsp;Eigentum&nbsp;willentlich&nbsp;beschädigt&nbsp;oder&nbsp;zerstört,&nbsp;wird&nbsp;mit&nbsp;500&nbsp;$&nbsp;–&nbsp;2.000&nbsp;$&nbsp;bestraft.&nbsp;</p>",
         "fineAmountMin": 500.00,
         "fineAmountMax": 2000.00,
-        "updatedUtc": "2025-10-24T06:47:26.6560830Z"
+        "updatedUtc": "2025-11-13T12:09:47.2598730Z"
     },
     {
         "id": "90c79ad7-081d-4f6d-b276-40efa6e128c2",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 29 Hausfriedensbruch",
-        "body": "<p>(1)&nbsp;Wer&nbsp;unbefugt&nbsp;Wohnung,&nbsp;ein&nbsp;Grundstück&nbsp;oder&nbsp;sonstiges&nbsp;Gelände&nbsp;betritt,&nbsp;wird&nbsp;mit&nbsp;500&nbsp;$&nbsp;–&nbsp;2.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Die&nbsp;Tat&nbsp;bleibt&nbsp;straflos,&nbsp;wenn&nbsp;im&nbsp;Rahmen&nbsp;eines&nbsp;Notfalls&nbsp;gehandelt&nbsp;wird.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;unbefugt&nbsp;Wohnung,&nbsp;ein&nbsp;Grundstück&nbsp;oder&nbsp;sonstiges&nbsp;Gelände&nbsp;betritt,&nbsp;wird&nbsp;mit&nbsp;500&nbsp;$&nbsp;–&nbsp;2.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Die&nbsp;Tat&nbsp;bleibt&nbsp;straflos,&nbsp;wenn&nbsp;im&nbsp;Rahmen&nbsp;eines&nbsp;Notfalls&nbsp;gehandelt&nbsp;wird.&nbsp;</p>",
         "fineAmountMin": 500.00,
         "fineAmountMax": 2000.00,
-        "updatedUtc": "2025-10-24T06:47:44.8039370Z"
+        "updatedUtc": "2025-11-13T12:10:45.3243700Z"
     },
     {
         "id": "63dd1103-ab17-4acd-9e54-b95d0ec55fa0",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 30 Unterschlagung",
-        "body": "<p>(1)&nbsp;Wer&nbsp;eine&nbsp;fremde&nbsp;anvertraute&nbsp;Sache&nbsp;nicht&nbsp;an&nbsp;den&nbsp;rechtmäßigen&nbsp;Eigentümer&nbsp;zurückgibt&nbsp;oder&nbsp;einem&nbsp;anderen&nbsp;ohne&nbsp;Erlaubnis&nbsp;überlässt,&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;8.000&nbsp;$&nbsp;bestraft.</p>",
+        "body": "<p>Wer&nbsp;eine&nbsp;fremde&nbsp;anvertraute&nbsp;Sache&nbsp;nicht&nbsp;an&nbsp;den&nbsp;rechtmäßigen&nbsp;Eigentümer&nbsp;zurückgibt&nbsp;oder&nbsp;einem&nbsp;anderen&nbsp;ohne&nbsp;Erlaubnis&nbsp;überlässt,&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;8.000&nbsp;$&nbsp;bestraft.</p>",
         "fineAmountMin": 3500.00,
         "fineAmountMax": 8000.00,
-        "updatedUtc": "2025-10-24T06:49:35.3990150Z"
+        "updatedUtc": "2025-11-13T12:11:02.9450900Z"
     },
     {
         "id": "16cdf2f4-b743-4f15-b4cc-308a654856f7",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 31 Hehlerei",
-        "body": "<p>Wer&nbsp;durch&nbsp;Diebstahl&nbsp;oder&nbsp;Raub&nbsp;erlangte&nbsp;Sachen&nbsp;verkauft oder lagert,&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;6.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p>&nbsp;</p>",
+        "body": "<p>Wer&nbsp;durch&nbsp;Diebstahl&nbsp;oder&nbsp;Raub&nbsp;erlangte&nbsp;Sachen&nbsp;verkauft oder lagert,&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;6.000&nbsp;$&nbsp;bestraft.&nbsp;</p>",
         "fineAmountMin": 3500.00,
         "fineAmountMax": 6000.00,
-        "updatedUtc": "2025-10-24T06:50:36.4482550Z"
+        "updatedUtc": "2025-11-13T12:11:13.6042640Z"
     },
     {
         "id": "db3c051d-5fe6-430e-8c64-19298363ea8c",
@@ -434,10 +434,10 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 32 Betrug",
-        "body": "<p>Wer&nbsp;jemanden&nbsp;täuscht,&nbsp;um&nbsp;sich&nbsp;oder&nbsp;einen&nbsp;Dritten&nbsp;zu&nbsp;bereichern,&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–9.000&nbsp;$&nbsp;bestraft. Der Strafrahmen ist höher anzusetzen, wenn die getäuschte Person in&nbsp;eine&nbsp;finanzielle&nbsp;Notlage gebracht wird.&nbsp;</p><p>&nbsp;</p>",
+        "body": "<p>Wer&nbsp;jemanden&nbsp;täuscht,&nbsp;um&nbsp;sich&nbsp;oder&nbsp;einen&nbsp;Dritten&nbsp;zu&nbsp;bereichern,&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–9.000&nbsp;$&nbsp;bestraft. Der Strafrahmen ist höher anzusetzen, wenn die getäuschte Person in&nbsp;eine&nbsp;finanzielle&nbsp;Notlage gebracht wird.&nbsp;</p>",
         "fineAmountMin": 3500.00,
         "fineAmountMax": 9000.00,
-        "updatedUtc": "2025-10-24T06:52:21.9769950Z"
+        "updatedUtc": "2025-11-13T12:11:46.9783080Z"
     },
     {
         "id": "2ef72b1d-4e87-477a-bf79-c1b9ed3b99ae",
@@ -514,10 +514,10 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 38 Amtsmissbrauch und Pflichtverletzung",
-        "body": "<p>(1)&nbsp;Wer&nbsp;als&nbsp;Staatsbediensteter,&nbsp;mit&nbsp;dem&nbsp;Vorsatz,&nbsp;dadurch&nbsp;einen&nbsp;anderen&nbsp;an&nbsp;seinen&nbsp;Rechten&nbsp;zu&nbsp;schädigen,&nbsp;seine&nbsp;Befugnis,&nbsp;im&nbsp;Namen&nbsp;des&nbsp;Staates&nbsp;San&nbsp;Andreas,&nbsp;missbraucht,&nbsp;wird&nbsp;mit&nbsp;8.000&nbsp;$&nbsp;–&nbsp;25.000&nbsp;$ bestraft.&nbsp;</p><p>(2)&nbsp;Wer&nbsp;durch&nbsp;eine&nbsp;Tat&nbsp;einen&nbsp;für&nbsp;den&nbsp;Staat&nbsp;empfindlichen&nbsp;finanziellen&nbsp;Schaden&nbsp;auslöst,&nbsp;die&nbsp;Behörde&nbsp;im&nbsp;öffentlichen&nbsp;Ansehen&nbsp;massiv&nbsp;abwertet&nbsp;oder&nbsp;eine&nbsp;gesetzliche&nbsp;Dienstpflicht&nbsp;vorsätzlich&nbsp;verletzt,&nbsp;wird&nbsp;mit&nbsp;8.000&nbsp;$&nbsp;–&nbsp;25.000&nbsp;$ bestraft.&nbsp;</p><p>&nbsp;</p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;als&nbsp;Staatsbediensteter,&nbsp;mit&nbsp;dem&nbsp;Vorsatz,&nbsp;dadurch&nbsp;einen&nbsp;anderen&nbsp;an&nbsp;seinen&nbsp;Rechten&nbsp;zu&nbsp;schädigen,&nbsp;seine&nbsp;Befugnis,&nbsp;im&nbsp;Namen&nbsp;des&nbsp;Staates&nbsp;San&nbsp;Andreas,&nbsp;missbraucht,&nbsp;wird&nbsp;mit&nbsp;8.000&nbsp;$&nbsp;–&nbsp;25.000&nbsp;$ bestraft.&nbsp;</p><p>(2)&nbsp;Wer&nbsp;durch&nbsp;eine&nbsp;Tat&nbsp;einen&nbsp;für&nbsp;den&nbsp;Staat&nbsp;empfindlichen&nbsp;finanziellen&nbsp;Schaden&nbsp;auslöst,&nbsp;die&nbsp;Behörde&nbsp;im&nbsp;öffentlichen&nbsp;Ansehen&nbsp;massiv&nbsp;abwertet&nbsp;oder&nbsp;eine&nbsp;gesetzliche&nbsp;Dienstpflicht&nbsp;vorsätzlich&nbsp;verletzt,&nbsp;wird&nbsp;mit&nbsp;8.000&nbsp;$&nbsp;–&nbsp;25.000&nbsp;$ bestraft.&nbsp;</p>",
         "fineAmountMin": 8000.00,
         "fineAmountMax": 25000.00,
-        "updatedUtc": "2025-10-24T06:59:33.5898280Z"
+        "updatedUtc": "2025-11-13T12:12:12.6428300Z"
     },
     {
         "id": "75aa9102-8831-486a-9c02-526d7f967d60",
@@ -534,20 +534,20 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 39 Beleidigung",
-        "body": "<p>(1)&nbsp;Wer&nbsp;jemanden&nbsp;durch&nbsp;Worte&nbsp;oder&nbsp;Gesten,&nbsp;egal&nbsp;wie&nbsp;sie&nbsp;verbreitet&nbsp;werden,&nbsp;in&nbsp;der&nbsp;öffentlichen&nbsp;Meinung&nbsp;herabwürdigt&nbsp;oder&nbsp;die&nbsp;persönliche&nbsp;Ehre&nbsp;angreift,&nbsp;wird&nbsp;mit&nbsp;500&nbsp;$&nbsp;–&nbsp;1.000&nbsp;$&nbsp;bestraft.</p><p>(2)&nbsp;Der&nbsp;Straftatbestand&nbsp;wird&nbsp;nur&nbsp;auf&nbsp;Antrag&nbsp;verfolgt.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;jemanden&nbsp;durch&nbsp;Worte&nbsp;oder&nbsp;Gesten,&nbsp;egal&nbsp;wie&nbsp;sie&nbsp;verbreitet&nbsp;werden,&nbsp;in&nbsp;der&nbsp;öffentlichen&nbsp;Meinung&nbsp;herabwürdigt&nbsp;oder&nbsp;die&nbsp;persönliche&nbsp;Ehre&nbsp;angreift,&nbsp;wird&nbsp;mit&nbsp;500&nbsp;$&nbsp;–&nbsp;1.000&nbsp;$&nbsp;bestraft.</p><p>(2)&nbsp;Der&nbsp;Straftatbestand&nbsp;wird&nbsp;nur&nbsp;auf&nbsp;Antrag&nbsp;verfolgt.&nbsp;</p>",
         "fineAmountMin": 500.00,
         "fineAmountMax": 1000.00,
-        "updatedUtc": "2025-10-24T06:59:45.5957020Z"
+        "updatedUtc": "2025-11-13T12:12:34.0135640Z"
     },
     {
         "id": "a2401a8d-97d5-4877-91de-9dd0dc87aebc",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 40 Üble Nachrede  und Verleumdung",
-        "body": "<p>(1)&nbsp;Wer&nbsp;in&nbsp;vollem&nbsp;Wissen&nbsp;durch&nbsp;inhaltlich&nbsp;falsche&nbsp;Aussagen&nbsp;oder&nbsp;geschriebenes&nbsp;Wort,&nbsp;eine&nbsp;Person&nbsp;ächtet&nbsp;oder&nbsp;öffentlich&nbsp;herabsetzt,&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Die&nbsp;absichtliche&nbsp;Verbreitung&nbsp;von&nbsp;nicht&nbsp;nachgewiesenen&nbsp;Aussagen&nbsp;oder&nbsp;Schriften,&nbsp;welche&nbsp;eine&nbsp;Person&nbsp;ächten&nbsp;oder&nbsp;öffentlich&nbsp;herabsetzen,&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;in&nbsp;vollem&nbsp;Wissen&nbsp;durch&nbsp;inhaltlich&nbsp;falsche&nbsp;Aussagen&nbsp;oder&nbsp;geschriebenes&nbsp;Wort,&nbsp;eine&nbsp;Person&nbsp;ächtet&nbsp;oder&nbsp;öffentlich&nbsp;herabsetzt,&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Die&nbsp;absichtliche&nbsp;Verbreitung&nbsp;von&nbsp;nicht&nbsp;nachgewiesenen&nbsp;Aussagen&nbsp;oder&nbsp;Schriften,&nbsp;welche&nbsp;eine&nbsp;Person&nbsp;ächten&nbsp;oder&nbsp;öffentlich&nbsp;herabsetzen,&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p>",
         "fineAmountMin": 1500.00,
         "fineAmountMax": 3000.00,
-        "updatedUtc": "2025-10-24T07:00:13.3234880Z"
+        "updatedUtc": "2025-11-13T12:13:43.0096900Z"
     },
     {
         "id": "e5b6bbef-3654-4402-8e01-0f4b660e0ad8",
@@ -574,10 +574,10 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 42 Gefährlicher Eingriff in den Straßen-, Luft-, Schienen- oder Schiffsverkehr",
-        "body": "<p>Wer&nbsp;bei&nbsp;seiner&nbsp;Teilnahme&nbsp;im&nbsp;Straßen-,&nbsp;Luft-,&nbsp;Schienen oder&nbsp;Schiffsverkehr&nbsp;durch&nbsp;sein&nbsp;Verhalten,&nbsp;die&nbsp;Sicherheit&nbsp;anderer&nbsp;so&nbsp;massiv&nbsp;gefährdet,&nbsp;dass&nbsp;er&nbsp;Anlagen&nbsp;oder&nbsp;andere&nbsp;Fahrzeuge&nbsp;zerstört&nbsp;oder&nbsp;durch&nbsp;sein&nbsp;generelles&nbsp;Verhalten&nbsp;eine&nbsp;Gefahr&nbsp;für&nbsp;Leib&nbsp;und&nbsp;Leben&nbsp;anderer&nbsp;darstellt,&nbsp;wird&nbsp;mit&nbsp;1.000&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p>&nbsp;</p>",
+        "body": "<p>Wer bei seiner Teilnahme im Straßen-, Luft-, Schienen oder Schiffsverkehr durch sein Verhalten, die Sicherheit anderer so massiv gefährdet, dass er Anlagen oder andere Fahrzeuge zerstört oder durch sein generelles Verhalten eine Gefahr für Leib und Leben anderer darstellt, wird mit 1.000$ - 3.000$ bestraft.</p>",
         "fineAmountMin": 1000.00,
         "fineAmountMax": 3000.00,
-        "updatedUtc": "2025-10-26T13:37:25.2581330Z"
+        "updatedUtc": "2025-11-13T12:18:56.1632180Z"
     },
     {
         "id": "8e602522-e85f-4607-bc58-6b1d667e4048",
@@ -594,30 +594,30 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 44 Strafvereitelung und Gewährung von Unterschlupf",
-        "body": "<p>(1)&nbsp;Wer&nbsp;durch&nbsp;eine&nbsp;Handlung&nbsp;bewusst&nbsp;die&nbsp;Verhängung&nbsp;oder&nbsp;Vollziehung&nbsp;einer&nbsp;rechtmäßigen&nbsp;Strafe&nbsp;verhindert,&nbsp;wird&nbsp;mit&nbsp;4.000&nbsp;$&nbsp;–&nbsp;6.000&nbsp;$bestraft.&nbsp;</p><p>(2)&nbsp;Wer&nbsp;einer&nbsp;durch&nbsp;Staatsgewalt&nbsp;gesuchten&nbsp;Person&nbsp;Deckung&nbsp;durch&nbsp;das&nbsp;zur&nbsp;Verfügung&nbsp;stellen&nbsp;von&nbsp;Räumen&nbsp;bietet,&nbsp;wird&nbsp;mit&nbsp;4.000&nbsp;$&nbsp;–&nbsp;6.000&nbsp;$&nbsp;bestraft.&nbsp;&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;durch&nbsp;eine&nbsp;Handlung&nbsp;bewusst&nbsp;die&nbsp;Verhängung&nbsp;oder&nbsp;Vollziehung&nbsp;einer&nbsp;rechtmäßigen&nbsp;Strafe&nbsp;verhindert,&nbsp;wird&nbsp;mit&nbsp;4.000&nbsp;$&nbsp;–&nbsp;6.000&nbsp;$bestraft.&nbsp;</p><p>(2)&nbsp;Wer&nbsp;einer&nbsp;durch&nbsp;Staatsgewalt&nbsp;gesuchten&nbsp;Person&nbsp;Deckung&nbsp;durch&nbsp;das&nbsp;zur&nbsp;Verfügung&nbsp;stellen&nbsp;von&nbsp;Räumen&nbsp;bietet,&nbsp;wird&nbsp;mit&nbsp;4.000&nbsp;$&nbsp;–&nbsp;6.000&nbsp;$&nbsp;bestraft.&nbsp;&nbsp;</p>",
         "fineAmountMin": 4000.00,
         "fineAmountMax": 6000.00,
-        "updatedUtc": "2025-10-24T07:01:14.9710270Z"
+        "updatedUtc": "2025-11-13T12:14:30.2521540Z"
     },
     {
         "id": "de9511dd-856e-4822-b633-cabb37ceabb6",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 45 Fluchthilfe",
-        "body": "<p>(1)&nbsp;Wer&nbsp;eine&nbsp;durch&nbsp;die&nbsp;Exekutive&nbsp;rechtmäßig&nbsp;festgehaltene&nbsp;Person&nbsp;befreit&nbsp;oder&nbsp;ihr&nbsp;zur&nbsp;Flucht&nbsp;verhilft,&nbsp;wird&nbsp;mit&nbsp;4.000&nbsp;$&nbsp;–&nbsp;5.500&nbsp;$&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Straffrei&nbsp;bleibt&nbsp;die&nbsp;Person,&nbsp;die&nbsp;aus&nbsp;der&nbsp;Haft&nbsp;oder&nbsp;Festnahme&nbsp;flieht.&nbsp;Sie&nbsp;kann&nbsp;jedoch&nbsp;für&nbsp;alle&nbsp;Straftaten&nbsp;die&nbsp;sie&nbsp;im&nbsp;Rahmen&nbsp;ihrer&nbsp;Flucht&nbsp;begeht,&nbsp;bestraft&nbsp;werden.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;eine&nbsp;durch&nbsp;die&nbsp;Exekutive&nbsp;rechtmäßig&nbsp;festgehaltene&nbsp;Person&nbsp;befreit&nbsp;oder&nbsp;ihr&nbsp;zur&nbsp;Flucht&nbsp;verhilft,&nbsp;wird&nbsp;mit&nbsp;4.000&nbsp;$&nbsp;–&nbsp;5.500&nbsp;$&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Straffrei&nbsp;bleibt&nbsp;die&nbsp;Person,&nbsp;die&nbsp;aus&nbsp;der&nbsp;Haft&nbsp;oder&nbsp;Festnahme&nbsp;flieht.&nbsp;Sie&nbsp;kann&nbsp;jedoch&nbsp;für&nbsp;alle&nbsp;Straftaten&nbsp;die&nbsp;sie&nbsp;im&nbsp;Rahmen&nbsp;ihrer&nbsp;Flucht&nbsp;begeht,&nbsp;bestraft&nbsp;werden.&nbsp;</p>",
         "fineAmountMin": 4000.00,
         "fineAmountMax": 5500.00,
-        "updatedUtc": "2025-10-24T07:01:35.5046350Z"
+        "updatedUtc": "2025-11-13T12:14:36.6452460Z"
     },
     {
         "id": "65a3a10c-2985-487c-965e-64b2dabb1584",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 46 Vortäuschen einer Straftat",
-        "body": "<p>(1)&nbsp;Wer&nbsp;bei&nbsp;einer&nbsp;Behörde&nbsp;absichtlich&nbsp;falsche&nbsp;Angaben&nbsp;über&nbsp;eine&nbsp;angebliche&nbsp;Straftat&nbsp;macht&nbsp;oder&nbsp;eine&nbsp;Straftat&nbsp;vortäuscht,&nbsp;um&nbsp;eine&nbsp;andere&nbsp;Straftat&nbsp;zu&nbsp;verbergen,&nbsp;sich&nbsp;einen&nbsp;Vorteil&nbsp;zu&nbsp;verschaffen&nbsp;oder&nbsp;jemand&nbsp;anderem&nbsp;ernsthaft&nbsp;zu&nbsp;schaden,&nbsp;wird&nbsp;mit&nbsp;1.000&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.</p><p>(2)&nbsp;Verursacht&nbsp;der&nbsp;Täter&nbsp;durch&nbsp;die&nbsp;Täuschung&nbsp;einen&nbsp;körperlichen&nbsp;oder&nbsp;finanziellen&nbsp;Schaden&nbsp;oder&nbsp;wird&nbsp;der&nbsp;Geschädigte&nbsp;dadurch&nbsp;in&nbsp;der&nbsp;öffentlichen&nbsp;Meinung&nbsp;stark&nbsp;herabgesetzt,&nbsp;kann&nbsp;dieser&nbsp;strenger&nbsp;bestraft&nbsp;werden.</p><p></p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;bei&nbsp;einer&nbsp;Behörde&nbsp;absichtlich&nbsp;falsche&nbsp;Angaben&nbsp;über&nbsp;eine&nbsp;angebliche&nbsp;Straftat&nbsp;macht&nbsp;oder&nbsp;eine&nbsp;Straftat&nbsp;vortäuscht,&nbsp;um&nbsp;eine&nbsp;andere&nbsp;Straftat&nbsp;zu&nbsp;verbergen,&nbsp;sich&nbsp;einen&nbsp;Vorteil&nbsp;zu&nbsp;verschaffen&nbsp;oder&nbsp;jemand&nbsp;anderem&nbsp;ernsthaft&nbsp;zu&nbsp;schaden,&nbsp;wird&nbsp;mit&nbsp;1.000&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.</p><p>(2)&nbsp;Verursacht&nbsp;der&nbsp;Täter&nbsp;durch&nbsp;die&nbsp;Täuschung&nbsp;einen&nbsp;körperlichen&nbsp;oder&nbsp;finanziellen&nbsp;Schaden&nbsp;oder&nbsp;wird&nbsp;der&nbsp;Geschädigte&nbsp;dadurch&nbsp;in&nbsp;der&nbsp;öffentlichen&nbsp;Meinung&nbsp;stark&nbsp;herabgesetzt,&nbsp;kann&nbsp;dieser&nbsp;strenger&nbsp;bestraft&nbsp;werden.</p>",
         "fineAmountMin": 1000.00,
         "fineAmountMax": 3000.00,
-        "updatedUtc": "2025-10-24T07:01:50.8638300Z"
+        "updatedUtc": "2025-11-13T12:14:41.9890550Z"
     },
     {
         "id": "2d9b6390-2b08-4d46-a8b1-8c3debb5cc24",
@@ -654,20 +654,20 @@
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 49 Fälschung von staatlichen Dokumenten",
-        "body": "<p>(1)&nbsp;Wer&nbsp;absichtlich&nbsp;ein&nbsp;staatliches&nbsp;Dokument&nbsp;(Urkunde)&nbsp;verändert,&nbsp;fälscht&nbsp;oder&nbsp;eine&nbsp;falsche&nbsp;Unterschrift&nbsp;verwendet,&nbsp;um&nbsp;jemanden&nbsp;zu&nbsp;täuschen&nbsp;oder&nbsp;sich&nbsp;einen&nbsp;unrechtmäßigen&nbsp;Vorteil&nbsp;zu&nbsp;verschaffen,&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;8.000&nbsp;$&nbsp;bestraft.</p><p>(2)&nbsp;Die&nbsp;vorsätzliche&nbsp;Nutzung&nbsp;der&nbsp;Urkunde&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;8.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;absichtlich&nbsp;ein&nbsp;staatliches&nbsp;Dokument&nbsp;(Urkunde)&nbsp;verändert,&nbsp;fälscht&nbsp;oder&nbsp;eine&nbsp;falsche&nbsp;Unterschrift&nbsp;verwendet,&nbsp;um&nbsp;jemanden&nbsp;zu&nbsp;täuschen&nbsp;oder&nbsp;sich&nbsp;einen&nbsp;unrechtmäßigen&nbsp;Vorteil&nbsp;zu&nbsp;verschaffen,&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;8.000&nbsp;$&nbsp;bestraft.</p><p>(2)&nbsp;Die&nbsp;vorsätzliche&nbsp;Nutzung&nbsp;der&nbsp;Urkunde&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;8.000&nbsp;$&nbsp;bestraft.&nbsp;</p>",
         "fineAmountMin": 3500.00,
         "fineAmountMax": 8000.00,
-        "updatedUtc": "2025-10-24T07:03:09.3117450Z"
+        "updatedUtc": "2025-11-13T12:15:08.0429040Z"
     },
     {
         "id": "e2bc15d1-cb15-401e-b118-1d49e117bef7",
         "categoryId": "b202849e-d96b-4c96-9523-b5c6128612b3",
         "categoryName": "Criminal Code (CC)",
         "name": "§ 50 Veranstaltung von unerlaubtem Glücksspiel",
-        "body": "<p>(1)&nbsp;Wer&nbsp;ohne&nbsp;Genehmigung&nbsp;gewerbsmäßig&nbsp;Glücksspiel&nbsp;veranstaltet,&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Wer&nbsp;im&nbsp;Rahmen&nbsp;eines&nbsp;Glücksspiels&nbsp;dieses&nbsp;zu&nbsp;unfairen&nbsp;Vorteilen&nbsp;für&nbsp;den&nbsp;Veranstalter&nbsp;manipuliert,&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Wer&nbsp;ohne&nbsp;Genehmigung&nbsp;gewerbsmäßig&nbsp;Glücksspiel&nbsp;veranstaltet,&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p><p>(2)&nbsp;Wer&nbsp;im&nbsp;Rahmen&nbsp;eines&nbsp;Glücksspiels&nbsp;dieses&nbsp;zu&nbsp;unfairen&nbsp;Vorteilen&nbsp;für&nbsp;den&nbsp;Veranstalter&nbsp;manipuliert,&nbsp;wird&nbsp;mit&nbsp;1.500&nbsp;$&nbsp;–&nbsp;3.000&nbsp;$&nbsp;bestraft.&nbsp;</p>",
         "fineAmountMin": 1500.00,
         "fineAmountMax": 3000.00,
-        "updatedUtc": "2025-10-24T07:03:21.7377210Z"
+        "updatedUtc": "2025-11-13T12:15:13.4227760Z"
     },
     {
         "id": "04ad25f8-f8bf-414c-9d99-ff5cfd69e9c7",
@@ -844,10 +844,10 @@
         "categoryId": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
         "categoryName": "Code of Criminal Procedure",
         "name": "§ 1 Verfahrensgrundsätze",
-        "body": "<p>(1)&nbsp;Jeder&nbsp;Beschuldigte&nbsp;gilt&nbsp;bis&nbsp;zum&nbsp;rechtskräftigen&nbsp;Urteil&nbsp;als&nbsp;unschuldig.</p><p>(2)&nbsp;Das&nbsp;Verfahren&nbsp;folgt&nbsp;den&nbsp;Grundsätzen&nbsp;der&nbsp;Fairness,&nbsp;Öffentlichkeit,&nbsp;Unparteilichkeit&nbsp;und&nbsp;Mündlichkeit.</p><p>(3)&nbsp;Die&nbsp;Rechte&nbsp;von&nbsp;Beschuldigten&nbsp;und&nbsp;Zeugen&nbsp;sind&nbsp;durch&nbsp;das&nbsp;Gericht&nbsp;vor&nbsp;der&nbsp;Aussage&nbsp;zu&nbsp;verlesen.</p><p>(4)&nbsp;Richter&nbsp;können&nbsp;Angelegenheiten,&nbsp;bei&nbsp;denen&nbsp;kein&nbsp;Urteil&nbsp;möglich&nbsp;oder&nbsp;erforderlich&nbsp;ist,&nbsp;per&nbsp;Beschluss&nbsp;regeln.</p><p>(5)&nbsp;Wer&nbsp;durch&nbsp;ein&nbsp;Urteil,&nbsp;Beschluss,&nbsp;Entscheidung&nbsp;eines&nbsp;Amtsträgers&nbsp;oder&nbsp;behördlichen&nbsp;Akt&nbsp;belastet&nbsp;ist,&nbsp;hat&nbsp;das&nbsp;Rechtsmittel&nbsp;der&nbsp;Beschwerde.</p><p>(6)&nbsp;Erklärt&nbsp;der&nbsp;Betroffene&nbsp;unmittelbar&nbsp;nach&nbsp;einer&nbsp;Verurteilung&nbsp;Beschwerde,&nbsp;so&nbsp;wird&nbsp;das&nbsp;Urteil&nbsp;nicht&nbsp;ausgeführt&nbsp;und&nbsp;bis&nbsp;zu&nbsp;einer&nbsp;Entscheidung&nbsp;über&nbsp;die&nbsp;Beschwerde&nbsp;ausgesetzt.&nbsp;</p><p>(7)&nbsp;Unanfechtbar&nbsp;sind&nbsp;Entscheidungen&nbsp;des&nbsp;höchsten&nbsp;Gerichts.&nbsp;Sie&nbsp;erlangen&nbsp;unmittelbar&nbsp;Rechtskraft.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Jeder&nbsp;Beschuldigte&nbsp;gilt&nbsp;bis&nbsp;zum&nbsp;rechtskräftigen&nbsp;Urteil&nbsp;als&nbsp;unschuldig.</p><p>(2)&nbsp;Das&nbsp;Verfahren&nbsp;folgt&nbsp;den&nbsp;Grundsätzen&nbsp;der&nbsp;Fairness,&nbsp;Öffentlichkeit,&nbsp;Unparteilichkeit&nbsp;und&nbsp;Mündlichkeit.</p><p>(3)&nbsp;Die&nbsp;Rechte&nbsp;von&nbsp;Beschuldigten&nbsp;und&nbsp;Zeugen&nbsp;sind&nbsp;durch&nbsp;das&nbsp;Gericht&nbsp;vor&nbsp;der&nbsp;Aussage&nbsp;zu&nbsp;verlesen</p><p>(4)&nbsp;Richter&nbsp;können&nbsp;Angelegenheiten,&nbsp;bei&nbsp;denen&nbsp;kein&nbsp;Urteil&nbsp;möglich&nbsp;oder&nbsp;erforderlich&nbsp;ist,&nbsp;per&nbsp;Beschlusregeln.</p><p>(5)&nbsp;Wer&nbsp;durch&nbsp;ein&nbsp;Urteil,&nbsp;Beschluss,&nbsp;Entscheidung&nbsp;eines&nbsp;Amtsträgers&nbsp;oder&nbsp;behördlichen&nbsp;Akt&nbsp;belastet&nbsp;ist,&nbsp;hat&nbsp;das&nbsp;Rechtsmittel&nbsp;der&nbsp;Beschwerde.</p><p>(6)&nbsp;Erklärt&nbsp;der&nbsp;Betroffene&nbsp;unmittelbar&nbsp;nach&nbsp;einer&nbsp;Verurteilung&nbsp;Beschwerde,&nbsp;so&nbsp;wird&nbsp;das&nbsp;Urteil&nbsp;nicht&nbsp;ausgeführt&nbsp;und&nbsp;bis&nbsp;zu&nbsp;einer&nbsp;Entscheidung&nbsp;über&nbsp;die&nbsp;Beschwerde&nbsp;ausgesetzt.</p><p>(7)&nbsp;Unanfechtbar&nbsp;sind&nbsp;Entscheidungen&nbsp;des&nbsp;höchsten&nbsp;Gerichts.&nbsp;Sie&nbsp;erlangen&nbsp;unmittelbar&nbsp;Rechtskraft.&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T07:34:58.9553240Z"
+        "updatedUtc": "2025-11-04T21:36:31.2030500Z"
     },
     {
         "id": "3f7b1d56-d5eb-4c24-ab02-c0f6b3b3df50",
@@ -864,10 +864,10 @@
         "categoryId": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
         "categoryName": "Code of Criminal Procedure",
         "name": "§ 3 Rechte des Beschuldigten",
-        "body": "<p>(1)&nbsp;Der&nbsp;Beschuldigte&nbsp;hat&nbsp;das&nbsp;Recht&nbsp;auf&nbsp;Schweigen,&nbsp;anwaltlichen&nbsp;Beistand,&nbsp;Akteneinsicht&nbsp;je&nbsp;nach&nbsp;Verfahrensstand&nbsp;durch&nbsp;den&nbsp;Verteidiger&nbsp;und&nbsp;eine&nbsp;zügige&nbsp;Vorführung&nbsp;vor&nbsp;Gericht.</p><p>(2)&nbsp;Die&nbsp;Rechtsausübung&nbsp;der&nbsp;Beschuldigtenrechte&nbsp;darf&nbsp;durch&nbsp;das&nbsp;Gericht&nbsp;nicht&nbsp;zu&nbsp;Lasten&nbsp;des&nbsp;Angeklagten&nbsp;ausgelegt&nbsp;werden.&nbsp;</p><p>(3)&nbsp;Ist&nbsp;kein&nbsp;Verteidiger&nbsp;erreichbar&nbsp;oder&nbsp;nimmt&nbsp;dieser&nbsp;einen&nbsp;Termin&nbsp;mit&nbsp;seinem&nbsp;Mandanten&nbsp;unentschuldigt&nbsp;nicht&nbsp;wahr,&nbsp;so&nbsp;muss&nbsp;sich&nbsp;der&nbsp;Beschuldigte&nbsp;selbst&nbsp;verteidigen.Die&nbsp;Entschuldigung&nbsp;hat&nbsp;24&nbsp;Stunden&nbsp;vor&nbsp;dem&nbsp;angesetzten&nbsp;Verhandlungsbeginn&nbsp;zu&nbsp;erfolgen.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Der&nbsp;Beschuldigte&nbsp;hat&nbsp;das&nbsp;Recht&nbsp;auf&nbsp;Schweigen,&nbsp;anwaltlichen&nbsp;Beistand,&nbsp;Akteneinsicht&nbsp;sofern&nbsp;dadurch&nbsp;keine&nbsp;laufenden&nbsp;Ermittlungen&nbsp;gefährdet&nbsp;werden&nbsp;und&nbsp;eine&nbsp;zügige&nbsp;Vorführung&nbsp;vor&nbsp;Gericht.</p><p>(2)&nbsp;Die&nbsp;Rechtsausübung&nbsp;der&nbsp;Beschuldigtenrechte&nbsp;darf&nbsp;durch&nbsp;das&nbsp;Gericht&nbsp;nicht&nbsp;zu&nbsp;Lasten&nbsp;des&nbsp;Angeklagten&nbsp;ausgelegt&nbsp;werden.&nbsp;</p><p>(3)&nbsp;Ist&nbsp;kein&nbsp;Verteidiger&nbsp;erreichbar&nbsp;oder&nbsp;nimmt&nbsp;dieser&nbsp;einen&nbsp;Termin&nbsp;mit&nbsp;seinem&nbsp;Mandanten&nbsp;unentschuldigt&nbsp;nicht&nbsp;wahr,&nbsp;so&nbsp;muss&nbsp;sich&nbsp;der&nbsp;Beschuldigte&nbsp;selbst&nbsp;verteidigen. Die&nbsp;Entschuldigung&nbsp;hat&nbsp;24&nbsp;Stunden&nbsp;vor&nbsp;dem&nbsp;angesetzten&nbsp;Verhandlungsbeginn&nbsp;zu&nbsp;erfolgen.&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T07:39:53.7519080Z"
+        "updatedUtc": "2025-11-13T17:19:08.6845220Z"
     },
     {
         "id": "8ef3254f-4754-4277-8a1e-df7144425dfa",
@@ -894,10 +894,10 @@
         "categoryId": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
         "categoryName": "Code of Criminal Procedure",
         "name": "$ 5 Strafbefehl",
-        "body": "<p>(1) Strafsachen, die in Summe 8.000 Dollar Gesamtstrafe nicht übersteigen, kann das District Attorney’s Office mit einem Strafbefehl beenden, wenn es eine Durchführung einer Hauptverhandlung für nicht erforderlich hält.&nbsp;</p><p>(2) Der Strafbefehl enthält Angaben über den Sachverhalt, Tatbestände sowie eine Begründung.&nbsp;</p><p>(3) Einer vorherigen Anhörung des Beschuldigten bedarf es nicht.&nbsp;</p><p>(4) Der Strafbefehl muss dem Beschuldigten oder seinem Anwalt mitgeteilt werden.&nbsp;</p><p>(5) Der Beschuldigte oder sein Verteidiger können innerhalb von 7 Tagen ab Zustellung Beschwerde gegen den Strafbefehl beim State Court erheben.&nbsp;</p><p>(6) Strafbefehle können durch das District Attorney’s Office zur Bewährung ausgesetzt werden. Es gelten die Vorschriften des § 17 CCOP analog.</p>",
+        "body": "<p>(1) Strafsachen, die in Summe 8.000 Dollar Gesamtstrafe nicht übersteigen, kann das District Attorney’s Office mit einem Strafbefehl beenden, wenn es eine Durchführung einer Hauptverhandlung für nicht erforderlich hält.&nbsp;</p><p>(2) Der Strafbefehl enthält Angaben über den Sachverhalt, Tatbestände sowie eine Begründung.&nbsp;</p><p>(3) Einer vorherigen Anhörung des Beschuldigten bedarf es nicht.&nbsp;</p><p>(4) Der Strafbefehl muss dem Beschuldigten oder seinem Anwalt mitgeteilt werden.&nbsp;</p><p>(5) Der Beschuldigte oder sein Verteidiger können innerhalb von 7 Tagen ab Zustellung Beschwerde gegen den Strafbefehl beim State Court erheben.&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-26T15:23:32.2583550Z"
+        "updatedUtc": "2025-11-17T20:59:30.0837620Z"
     },
     {
         "id": "5720280a-47d7-4cc3-a7d2-7cc696c0756e",
@@ -934,10 +934,10 @@
         "categoryId": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
         "categoryName": "Code of Criminal Procedure",
         "name": "§ 8 Beweisaufnahme",
-        "body": "<p>(1)&nbsp;Beweise&nbsp;werden&nbsp;im&nbsp;Verfahren&nbsp;vorgelegt&nbsp;und&nbsp;können&nbsp;von&nbsp;beiden&nbsp;Seiten&nbsp;bestritten&nbsp;oder&nbsp;hinterfragt&nbsp;werden.</p><p>(2)&nbsp;Unrechtmäßig&nbsp;erlangte&nbsp;Beweise&nbsp;sind&nbsp;unzulässig,&nbsp;außer&nbsp;ihr&nbsp;Ausschluss&nbsp;würde&nbsp;die&nbsp;Rechtsfindung&nbsp;unzumutbar&nbsp;verhindern.</p><p>(3)&nbsp;Der&nbsp;Beschuldigte&nbsp;hat&nbsp;das&nbsp;Recht,&nbsp;sich&nbsp;jederzeit&nbsp;in&nbsp;der&nbsp;Beweisaufnahme&nbsp;zu&nbsp;äußern.&nbsp;Mit&nbsp;Wahrnehmumg&nbsp;dieses&nbsp;Rechts&nbsp;verliert&nbsp;der&nbsp;Angeklagte&nbsp;das&nbsp;Recht&nbsp;zu&nbsp;schweigen.&nbsp;Der&nbsp;Vorsitzende&nbsp;Richter&nbsp;muss&nbsp;auf&nbsp;diese&nbsp;Konsequenz&nbsp;vor&nbsp;Beginn&nbsp;der&nbsp;Einlassung&nbsp;hinweisen.&nbsp;</p><p></p>",
+        "body": "<p>(1) Beweise werden im Verfahren mündlich vorgetragen. Beide Parteien dürfen sie bestreiten oder hinterfragen.</p><p>(2) Schriftliche Beweise und Aussagen dürfen in der Verhandlung verlesen oder vorgelegt werden. Sie gelten erst dann als Beweis, wenn ihr Inhalt mündlich bekannt gemacht und beiden Seiten Gelegenheit zur Stellungnahme gegeben wurde.</p><p>(3) Unrechtmäßig erlangte Beweise sind unzulässig, es sei denn, ihr Ausschluss würde die Wahrheitsfindung unzumutbar erschweren.</p><p>(4) Der Beschuldigte darf sich jederzeit während der Beweisaufnahme äußern. Er verliert dadurch sein Schweigerecht. Der Vorsitzende Richter hat ihn vor Beginn der Einlassung ausdrücklich auf diese Folge hinzuweisen.&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T07:48:53.4197920Z"
+        "updatedUtc": "2025-11-13T17:18:05.8851590Z"
     },
     {
         "id": "3260e0bd-7dd9-405e-9dda-863e6a25f222",
@@ -984,10 +984,10 @@
         "categoryId": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
         "categoryName": "Code of Criminal Procedure",
         "name": "§ 11 Beschwerde",
-        "body": "<p>(1)&nbsp;Jede&nbsp;gerichtlich&nbsp;belastende&nbsp;Entscheidung&nbsp;kann&nbsp;im&nbsp;Rahmen&nbsp;eines&nbsp;Beschwerdeverfahren&nbsp;überprüft&nbsp;werden.&nbsp;Das&nbsp;Beschwerdeverfahren&nbsp;folgt&nbsp;in&nbsp;Grundzügen&nbsp;den&nbsp;strafprozessualen&nbsp;Richtlinien&nbsp;des&nbsp;Gesetzes.&nbsp;</p><p>(2)&nbsp;Entscheidungen&nbsp;über&nbsp;Vergehen&nbsp;nach&nbsp;Traffic&nbsp;Code&nbsp;sind&nbsp;vor&nbsp;dem&nbsp;Traffic&nbsp;Court&nbsp;beschwerdefähig.</p><p>(3)&nbsp;Beschwerden&nbsp;in&nbsp;Zivilangelegenheiten&nbsp;sind&nbsp;möglich.</p><p>(4)&nbsp;Das&nbsp;Beschwerdegericht&nbsp;kann&nbsp;Beschwerden&nbsp;annehmen,&nbsp;ihnen&nbsp;abhelfen&nbsp;oder&nbsp;diese&nbsp;für&nbsp;unzulässig&nbsp;erklären.&nbsp;Die&nbsp;Entscheidung&nbsp;darüber&nbsp;ergeht&nbsp;nach&nbsp;mündlicher&nbsp;Anhörung&nbsp;der&nbsp;Beteiligten.</p><p>(5)&nbsp;Der&nbsp;Beschwerdeführer&nbsp;trägt&nbsp;die&nbsp;Beweislast.&nbsp;</p><p>(6)&nbsp;Nimmt&nbsp;das&nbsp;Beschwerdegericht&nbsp;eine&nbsp;Beschwerde&nbsp;an,&nbsp;ohne&nbsp;ihr&nbsp;abzuhelfen,&nbsp;ist&nbsp;eine&nbsp;neue&nbsp;Beweisaufnahme&nbsp;erforderlich.&nbsp;Im&nbsp;Übrigen&nbsp;gelten&nbsp;die&nbsp;Verfahrensnormen.</p><p>(7)&nbsp;Eine&nbsp;für&nbsp;unzulässig&nbsp;erklärte&nbsp;Beschwerde&nbsp;kann&nbsp;nicht&nbsp;erneut&nbsp;vorgebracht&nbsp;werden.&nbsp;Eine&nbsp;Beschwerde&nbsp;ist&nbsp;unzulässig,&nbsp;wenn&nbsp;sie&nbsp;ohne&nbsp;Begründung,&nbsp;substanziellen&nbsp;Vortrag,&nbsp;erfolgte&nbsp;oder&nbsp;sie&nbsp;nicht&nbsp;imstande&nbsp;ist,&nbsp;Zweifel&nbsp;an&nbsp;der&nbsp;Rechtmäßigkeit&nbsp;der&nbsp;angegriffenen&nbsp;Entscheidung&nbsp;zu&nbsp;haben.&nbsp;</p><p>(8)&nbsp;Das&nbsp;Gericht&nbsp;ist&nbsp;bei&nbsp;der&nbsp;Entscheidungsfindung&nbsp;nicht&nbsp;an&nbsp;die&nbsp;Anträge&nbsp;der&nbsp;Beteiligten&nbsp;gebunden,&nbsp;jedoch&nbsp;gilt&nbsp;das&nbsp;Verschlechterungsverbot.&nbsp;</p><p></p>",
+        "body": "<p><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">(1) Jede gerichtlich belastende Entscheidung kann in einem Beschwerdeverfahren überprüft werden. Das Beschwerdeverfahren folgt den strafprozessualen Grundsätzen dieses Gesetzes.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">(2) Entscheidungen über Vergehen nach dem Traffic Code sind vor dem Traffic Court beschwerdefähig.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(3) Beschwerden in Zivilangelegenheiten sind zulässig.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(4) Das Beschwerdeverfahren ist aus Gründen der Prozessökonomie auf maximal 30 Minuten begrenzt. Zeugen werden im Beschwerdeverfahren nicht angehört.\nInnerhalb dieser Zeit entscheidet das Beschwerdegericht nach kurzer mündlicher Anhörung der Beteiligten über eine der folgenden Maßnahmen:\n</span><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\nAnnahme der Beschwerde –&gt; es folgt eine Hauptverhandlung.\n</span><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\nTeilweise Abhilfe –&gt; das Urteil wird zugunsten des Beschwerdeführers angepasst (nur milder, niemals strenger).\n</span><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\nAblehnung –&gt; die Beschwerde wird verworfen und ist erledigt.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(5) Der Beschwerdeführer trägt die Beweislast.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(6) Wird eine Beschwerde angenommen, ohne dass eine sofortige Abhilfe erfolgt, ist eine neue Beweisaufnahme in der Hauptverhandlung durchzuführen. Im Übrigen gelten die allgemeinen Verfahrensnormen.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(7) Eine für unzulässig erklärte oder abgelehnte Beschwerde kann nicht erneut vorgebracht werden. Unzulässig ist eine Beschwerde insbesondere dann, wenn sie ohne Begründung, ohne substanziellen Vortrag oder ohne erkennbaren Zweifel an der Rechtmäßigkeit der angegriffenen Entscheidung erhoben wurde.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(8) Das Gericht ist bei der Entscheidung nicht an die Anträge der Beteiligten gebunden. Das Verschlechterungsverbot bleibt unberührt.</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">(9) Beschwerden beim State Court sind mündlich zu beantragen. Eine ausführliche Begründung ist nicht erforderlich, diese erfolgt in der Anhörung.</span><br>&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T07:50:39.5694300Z"
+        "updatedUtc": "2025-11-17T20:58:02.5962050Z"
     },
     {
         "id": "23aee72d-9a4a-47f8-b0df-9a2901978717",
@@ -1014,10 +1014,10 @@
         "categoryId": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
         "categoryName": "Code of Criminal Procedure",
         "name": "§ 13 Untersuchungshaft",
-        "body": "<p>(1)&nbsp;Untersuchungshaft&nbsp;ist&nbsp;nur&nbsp;zulässig,&nbsp;wenn&nbsp;ein&nbsp;dringender&nbsp;Tatverdacht&nbsp;und&nbsp;ein&nbsp;Haftgrund&nbsp;vorliegen.</p><p>(2)&nbsp;Die&nbsp;Haft&nbsp;ist&nbsp;auf&nbsp;das&nbsp;notwendige&nbsp;Maß&nbsp;beschränkt.</p><p></p>",
+        "body": "<p>(1)&nbsp;Untersuchungshaft&nbsp;ist&nbsp;nur&nbsp;zulässig,&nbsp;wenn&nbsp;ein&nbsp;dringender&nbsp;Tatverdacht&nbsp;und&nbsp;ein&nbsp;Haftgrund&nbsp;vorliegen.</p><p>(2)&nbsp;Die&nbsp;Haft&nbsp;ist&nbsp;auf&nbsp;das&nbsp;notwendige&nbsp;Maß&nbsp;beschränkt.</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T07:51:34.0218300Z"
+        "updatedUtc": "2025-11-04T22:04:25.9459620Z"
     },
     {
         "id": "cdb1fa90-2211-464c-b99b-e4f5d1a37d0c",
@@ -1034,20 +1034,20 @@
         "categoryId": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
         "categoryName": "Code of Criminal Procedure",
         "name": "§ 15 Beschlüsse",
-        "body": "<p>(1)&nbsp;Der&nbsp;State&nbsp;Court&nbsp;San&nbsp;Andreas&nbsp;regelt&nbsp;Angelegenheiten&nbsp;per&nbsp;Beschluss.</p><p>(2)&nbsp;Sonderbeschlüsse&nbsp;können&nbsp;zur&nbsp;Regelung&nbsp;besonderer&nbsp;oder&nbsp;zeitlich&nbsp;begrenzter&nbsp;Angelegenheiten&nbsp;erlassen&nbsp;werden.</p><p>(3)&nbsp;Sonderbeschlüsse&nbsp;sind&nbsp;höchstens&nbsp;14&nbsp;Tage&nbsp;gültig.&nbsp;Jede&nbsp;Verlängerung&nbsp;muss&nbsp;durch&nbsp;den&nbsp;Chief&nbsp;Justice&nbsp;erfolgen.</p><p>(4)&nbsp;Sonderbeschlüsse&nbsp;dürfen&nbsp;die&nbsp;Grundrechte&nbsp;nur&nbsp;insoweit&nbsp;einschränken,&nbsp;wie&nbsp;es&nbsp;unbedingt&nbsp;notwendig&nbsp;ist.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Der&nbsp;State&nbsp;Court&nbsp;San&nbsp;Andreas&nbsp;regelt&nbsp;Angelegenheiten&nbsp;per&nbsp;Beschluss.</p><p>(2)&nbsp;Sonderbeschlüsse&nbsp;können&nbsp;zur&nbsp;Regelung&nbsp;besonderer&nbsp;oder&nbsp;zeitlich&nbsp;begrenzter&nbsp;Angelegenheiten&nbsp;erlassen&nbsp;werden.</p><p>(3)&nbsp;Sonderbeschlüsse&nbsp;sind&nbsp;höchstens&nbsp;14&nbsp;Tage&nbsp;gültig.&nbsp;Jede&nbsp;Verlängerung&nbsp;muss&nbsp;durch&nbsp;den&nbsp;Chief&nbsp;Justice&nbsp;erfolgen.</p><p>(4)&nbsp;Sonderbeschlüsse&nbsp;dürfen&nbsp;die&nbsp;Grundrechte&nbsp;nur&nbsp;insoweit&nbsp;einschränken,&nbsp;wie&nbsp;es&nbsp;unbedingt&nbsp;notwendig&nbsp;ist.</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T07:52:25.5208450Z"
+        "updatedUtc": "2025-11-04T22:03:42.7805540Z"
     },
     {
         "id": "c9a99a3f-d643-43cc-9c95-a97ba1d448f6",
         "categoryId": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
         "categoryName": "Code of Criminal Procedure",
         "name": "§16 Missachtung des Gerichts",
-        "body": "<p>Wer Beschlüsse, Anweisungen oder verbindliche Vorgaben des State Courts vorsätzlich missachtet, kann mit einem Ordnungsgeld von bis zu 1.000 $ belegt werden.&nbsp;</p><p>&nbsp;</p>",
+        "body": "<p>Wer Beschlüsse, Anweisungen oder verbindliche Vorgaben des State Courts vorsätzlich missachtet, kann mit einem Ordnungsgeld von bis zu 1.000 $ belegt werden.&nbsp;</p>",
         "fineAmountMin": 0.00,
         "fineAmountMax": 1000.00,
-        "updatedUtc": "2025-10-24T07:37:35.2857380Z"
+        "updatedUtc": "2025-11-04T21:43:03.4462330Z"
     },
     {
         "id": "8fe354ea-10c8-4e02-bd4f-2657b50b8649",
@@ -1124,10 +1124,10 @@
         "categoryId": "24439d17-6677-495f-9cc4-414f820d2ac0",
         "categoryName": "Traffic Code",
         "name": "§ 6 Illegales Tuning",
-        "body": "<p>(1)&nbsp;Illegales&nbsp;Tuning&nbsp;liegt&nbsp;vor,&nbsp;wenn&nbsp;am&nbsp;Fahrzeug&nbsp;technische&nbsp;Änderungen&nbsp;vorgenommen&nbsp;werden,&nbsp;die&nbsp;zu&nbsp;einer&nbsp;unzulässigen&nbsp;Steigerung&nbsp;der&nbsp;Leistung&nbsp;und&nbsp;zu&nbsp;einer&nbsp;Beeinflussung&nbsp;des&nbsp;ordnungsgemäßen&nbsp;Betriebs&nbsp;führen.</p><p>(2)&nbsp;Bei&nbsp;begründetem&nbsp;Verdacht&nbsp;auf&nbsp;illegales&nbsp;Tuning&nbsp;kann&nbsp;die&nbsp;Exekutive&nbsp;das&nbsp;Fahrzeug&nbsp;anhalten.&nbsp;Das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;muss&nbsp;bei&nbsp;einer&nbsp;geplanten&nbsp;Sicherstellung&nbsp;hinzugezogen&nbsp;werden.</p><p>(3)&nbsp;Das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;kann&nbsp;eine&nbsp;technische&nbsp;Überprüfung&nbsp;über&nbsp;die&nbsp;verbauten&nbsp;Bauteile&nbsp;zu&nbsp;Lasten&nbsp;der&nbsp;Staatskasse&nbsp;anordnen.</p><p>(4)&nbsp;Verstöße&nbsp;gegen&nbsp;diesen&nbsp;Paragrafen&nbsp;sind&nbsp;nur&nbsp;durch&nbsp;Strafbefehl&nbsp;durch&nbsp;das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;zu&nbsp;ahnden.</p><p>(5)&nbsp;Der&nbsp;Strafrahmen&nbsp;beträgt&nbsp;500&nbsp;Dollar&nbsp;bis&nbsp;2.000&nbsp;Dollar.</p>",
+        "body": "<p>(1)&nbsp;Illegales&nbsp;Tuning&nbsp;liegt&nbsp;vor,&nbsp;wenn&nbsp;am&nbsp;Fahrzeug&nbsp;technische&nbsp;Änderungen&nbsp;vorgenommen&nbsp;werden,&nbsp;die&nbsp;zu&nbsp;einer&nbsp;unzulässigen&nbsp;Steigerung&nbsp;der&nbsp;Leistung&nbsp;und&nbsp;zu&nbsp;einer&nbsp;Beeinflussung&nbsp;des&nbsp;ordnungsgemäßen&nbsp;Betriebs&nbsp;führen.</p><p>(2)&nbsp;Bei&nbsp;begründetem&nbsp;Verdacht&nbsp;auf&nbsp;illegales&nbsp;Tuning&nbsp;kann&nbsp;die&nbsp;Exekutive&nbsp;das&nbsp;Fahrzeug&nbsp;anhalten.&nbsp;Das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;muss&nbsp;bei&nbsp;einer&nbsp;geplanten&nbsp;Sicherstellung&nbsp;hinzugezogen&nbsp;werden.</p><p>(3)&nbsp;Das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;kann&nbsp;eine&nbsp;technische&nbsp;Überprüfung&nbsp;über&nbsp;die&nbsp;verbauten&nbsp;Bauteile&nbsp;zu&nbsp;Lasten&nbsp;der&nbsp;Staatskasse&nbsp;anordnen.</p><p>(4) Entscheidungen über Verstöße gegen diesen Paragraphen können neben dem Strafbefehlsverfahren des District Attorney’s Office auch durch die zuständige Richterschaft im Rahmen eines gerichtlichen Verfahrens getroffen werden.</p><p>(5)&nbsp;Der&nbsp;Strafrahmen&nbsp;beträgt&nbsp;500&nbsp;Dollar&nbsp;bis&nbsp;2.000&nbsp;Dollar.</p>",
         "fineAmountMin": 500.00,
         "fineAmountMax": 2000.00,
-        "updatedUtc": "2025-10-24T07:06:42.3208200Z"
+        "updatedUtc": "2025-11-17T21:01:21.0534030Z"
     },
     {
         "id": "8594ff1e-5633-42e1-9abb-7a9aa5341073",
@@ -1174,10 +1174,10 @@
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 1 Aufgaben und Pflichten",
-        "body": "<p>(1)&nbsp;Die&nbsp;Exekutive&nbsp;hat die Pflicht, Straftaten zu verfolgen. Daneben gewährleistet sie gefahren Abwehr sowie Ordnung und Sicherheit.</p><p>(2)&nbsp;Sie&nbsp;hat&nbsp;alle&nbsp;erdenklichen&nbsp;Maßnahmen&nbsp;zu&nbsp;ergreifen,&nbsp;um&nbsp;Gefahren&nbsp;für&nbsp;Leben,&nbsp;körperliche&nbsp;Unversehrtheit,&nbsp;Eigentum&nbsp;oder&nbsp;die&nbsp;öffentliche&nbsp;Ordnung&nbsp;zu&nbsp;verhindern&nbsp;oder&nbsp;wirksam&nbsp;zu&nbsp;beenden.</p><p>(3)&nbsp;Alle&nbsp;Maßnahmen&nbsp;müssen&nbsp;so&nbsp;ausgeführt&nbsp;werden,&nbsp;dass&nbsp;sie&nbsp;die&nbsp;Gefahr&nbsp;wirksam&nbsp;beenden,</p><p>ohne&nbsp;den&nbsp;Betroffenen&nbsp;stärker&nbsp;zu&nbsp;belasten&nbsp;als&nbsp;nötig&nbsp;oder&nbsp;die&nbsp;Sicherheit&nbsp;der&nbsp;Einsatzkräfte&nbsp;zu&nbsp;gefährden.</p><p>(4)&nbsp;Exekutivbeamte&nbsp;handeln&nbsp;mit&nbsp;Sorgfalt,&nbsp;Neutralität&nbsp;und&nbsp;Respekt.&nbsp;Sie&nbsp;müssen&nbsp;sich&nbsp;auf&nbsp;Verlangen&nbsp;durch&nbsp;ihre&nbsp;Dienstnummer&nbsp;gegenüber&nbsp;Dritten&nbsp;ausweisen.</p><p>(5)&nbsp;Nimmt&nbsp;ein&nbsp;Exekutivbeamter&nbsp;eine&nbsp;Maßnahme&nbsp;nach&nbsp;diesem&nbsp;Gesetz&nbsp;vor,&nbsp;so&nbsp;muss&nbsp;er&nbsp;als&nbsp;Angehöriger&nbsp;der&nbsp;Behörde&nbsp;klar&nbsp;erkennbar&nbsp;sein&nbsp;oder&nbsp;sich&nbsp;klar&nbsp;ausweisen.</p><p>&nbsp;</p>",
+        "body": "<p>(1)&nbsp;Die&nbsp;Exekutive&nbsp;hat die Pflicht, Straftaten zu verfolgen. Daneben gewährleistet sie gefahren Abwehr sowie Ordnung und Sicherheit.</p><p>(2)&nbsp;Sie&nbsp;hat&nbsp;alle&nbsp;erdenklichen&nbsp;Maßnahmen&nbsp;zu&nbsp;ergreifen,&nbsp;um&nbsp;Gefahren&nbsp;für&nbsp;Leben,&nbsp;körperliche&nbsp;Unversehrtheit,&nbsp;Eigentum&nbsp;oder&nbsp;die&nbsp;öffentliche&nbsp;Ordnung&nbsp;zu&nbsp;verhindern&nbsp;oder&nbsp;wirksam&nbsp;zu&nbsp;beenden.</p><p>(3)&nbsp;Alle&nbsp;Maßnahmen&nbsp;müssen&nbsp;so&nbsp;ausgeführt&nbsp;werden,&nbsp;dass&nbsp;sie&nbsp;die&nbsp;Gefahr&nbsp;wirksam&nbsp;beenden,</p><p>ohne&nbsp;den&nbsp;Betroffenen&nbsp;stärker&nbsp;zu&nbsp;belasten&nbsp;als&nbsp;nötig&nbsp;oder&nbsp;die&nbsp;Sicherheit&nbsp;der&nbsp;Einsatzkräfte&nbsp;zu&nbsp;gefährden.</p><p>(4)&nbsp;Exekutivbeamte&nbsp;handeln&nbsp;mit&nbsp;Sorgfalt,&nbsp;Neutralität&nbsp;und&nbsp;Respekt.&nbsp;Sie&nbsp;müssen&nbsp;sich&nbsp;auf&nbsp;Verlangen&nbsp;durch&nbsp;ihre&nbsp;Dienstnummer&nbsp;gegenüber&nbsp;Dritten&nbsp;ausweisen.</p><p>(5)&nbsp;Nimmt&nbsp;ein&nbsp;Exekutivbeamter&nbsp;eine&nbsp;Maßnahme&nbsp;nach&nbsp;diesem&nbsp;Gesetz&nbsp;vor,&nbsp;so&nbsp;muss&nbsp;er&nbsp;als&nbsp;Angehöriger&nbsp;der&nbsp;Behörde&nbsp;klar&nbsp;erkennbar&nbsp;sein&nbsp;oder&nbsp;sich&nbsp;klar&nbsp;ausweisen.</p><p><span style=\"background-color:rgb(28,25,23);color:rgb(255,255,255);\">(6) Die Exekutive spricht keine Urteile. Sie stellt lediglich Ordnungswidrigkeiten fest und verhängt Bußgelder nach Maßgabe der Gesetze des Staates San Andreas.</span></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-29T15:03:59.7676100Z"
+        "updatedUtc": "2025-11-17T21:01:51.7567320Z"
     },
     {
         "id": "6b391cc8-07e3-43ff-9d91-ac18a31ff950",
@@ -1187,67 +1187,67 @@
         "body": "<p>(1) Die Exekutivbehörden können die Identität einer Person feststellen.</p><p>(2) Die Bürger haben die Pflicht, sich auszuweisen.&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-11-01T17:22:11.8563910Z"
+        "updatedUtc": "2025-11-03T20:59:21.7153470Z"
     },
     {
         "id": "253922cb-8841-4df0-b19e-11e1021b27df",
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 2 Vorläufige Festnahme",
-        "body": "<p>(1)&nbsp;Wird&nbsp;eine&nbsp;Person&nbsp;auf&nbsp;frischer&nbsp;Tat&nbsp;angetroffen&nbsp;oder&nbsp;unmittelbar&nbsp;nach&nbsp;der&nbsp;Tat&nbsp;verfolgt,&nbsp;so&nbsp;ist&nbsp;die&nbsp;Exekutive&nbsp;befugt,&nbsp;diese&nbsp;Person&nbsp;ohne&nbsp;vorherige&nbsp;richterliche&nbsp;Anordnung&nbsp;vorläufig&nbsp;festzunehmen.</p><p>(2)&nbsp;Der&nbsp;Festgenommene&nbsp;soll&nbsp;unverzüglich&nbsp;über&nbsp;den&nbsp;Grund&nbsp;der&nbsp;Festnahme&nbsp;sowie&nbsp;über&nbsp;seine&nbsp;Rechte&nbsp;belehrt&nbsp;werden.&nbsp;(Miranda&nbsp;Warning).</p><p>(3)&nbsp;Eine&nbsp;vorläufige&nbsp;Festnahme&nbsp;darf&nbsp;nur&nbsp;so&nbsp;lange&nbsp;andauern,&nbsp;wie&nbsp;sie&nbsp;zur&nbsp;weiteren&nbsp;Bearbeitung&nbsp;oder&nbsp;Übergabe&nbsp;erforderlich&nbsp;ist,&nbsp;und&nbsp;darf&nbsp;eine&nbsp;Stunde&nbsp;nicht&nbsp;überschreiten.&nbsp;</p><p>(4)&nbsp;Eine&nbsp;vorläufige&nbsp;Festnahme&nbsp;ist&nbsp;ebenfalls&nbsp;zulässig,&nbsp;wenn&nbsp;dies&nbsp;zur&nbsp;Feststellung&nbsp;der&nbsp;Identität&nbsp;oder&nbsp;der&nbsp;Kontaktdaten&nbsp;einer&nbsp;Person&nbsp;erforderlich&nbsp;ist,&nbsp;sofern&nbsp;die&nbsp;betroffene&nbsp;Person&nbsp;die&nbsp;entsprechenden&nbsp;Angaben&nbsp;verweigert&nbsp;oder&nbsp;begründete&nbsp;Zweifel&nbsp;an&nbsp;ihrer&nbsp;Identität&nbsp;bestehen.</p><p></p>",
+        "body": "<p>(1)&nbsp;Wird&nbsp;eine&nbsp;Person&nbsp;auf&nbsp;frischer&nbsp;Tat&nbsp;angetroffen&nbsp;oder&nbsp;unmittelbar&nbsp;nach&nbsp;der&nbsp;Tat&nbsp;verfolgt,&nbsp;so&nbsp;ist&nbsp;die&nbsp;Exekutive&nbsp;befugt,&nbsp;diese&nbsp;Person&nbsp;ohne&nbsp;vorherige&nbsp;richterliche&nbsp;Anordnung&nbsp;vorläufig&nbsp;festzunehmen.</p><p><span style=\"background-color:rgb(28,25,23);color:rgb(255,255,255);\">(2)&nbsp;Der&nbsp;Festgenommene&nbsp;muss unverzüglich&nbsp;über&nbsp;den&nbsp;Grund&nbsp;der&nbsp;Festnahme belehrt&nbsp;werden.&nbsp;</span></p><p>(3)&nbsp;Eine&nbsp;vorläufige&nbsp;Festnahme&nbsp;darf&nbsp;nur&nbsp;so&nbsp;lange&nbsp;andauern,&nbsp;wie&nbsp;sie&nbsp;zur&nbsp;weiteren&nbsp;Bearbeitung&nbsp;oder&nbsp;Übergabe&nbsp;erforderlich&nbsp;ist,&nbsp;und&nbsp;darf&nbsp;eine&nbsp;Stunde&nbsp;nicht&nbsp;überschreiten.&nbsp;</p><p>(4)&nbsp;Eine&nbsp;vorläufige&nbsp;Festnahme&nbsp;ist&nbsp;ebenfalls&nbsp;zulässig,&nbsp;wenn&nbsp;dies&nbsp;zur&nbsp;Feststellung&nbsp;der&nbsp;Identität&nbsp;oder&nbsp;der&nbsp;Kontaktdaten&nbsp;einer&nbsp;Person&nbsp;erforderlich&nbsp;ist,&nbsp;sofern&nbsp;die&nbsp;betroffene&nbsp;Person&nbsp;die&nbsp;entsprechenden&nbsp;Angaben&nbsp;verweigert&nbsp;oder&nbsp;begründete&nbsp;Zweifel&nbsp;an&nbsp;ihrer&nbsp;Identität&nbsp;bestehen.</p><p>&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T08:12:57.5102770Z"
+        "updatedUtc": "2025-11-13T17:19:21.6453740Z"
     },
     {
         "id": "33d8e4f3-3133-4885-a9da-1d250c1c8ad9",
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 3 Untersuchungshaft",
-        "body": "<p>(1)&nbsp;Eine&nbsp;Untersuchungshaft&nbsp;darf&nbsp;nur&nbsp;auf&nbsp;Grundlage&nbsp;einer&nbsp;richterlichen&nbsp;Anordnung&nbsp;erfolgen.&nbsp;</p><p>(2)&nbsp;Ist&nbsp;das&nbsp;zuständige&nbsp;Gericht&nbsp;nicht&nbsp;erreichbar,&nbsp;kann&nbsp;das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;in&nbsp;dringenden&nbsp;Fällen&nbsp;eine&nbsp;vorläufige&nbsp;Anordnung&nbsp;treffen.&nbsp;Der&nbsp;Antrag&nbsp;ist&nbsp;unverzüglich&nbsp;nachträglich&nbsp;beim&nbsp;Gericht&nbsp;einzureichen.</p><p>(3)&nbsp;Die&nbsp;Untersuchungshaft&nbsp;ist&nbsp;nur&nbsp;zulässig,&nbsp;wenn&nbsp;eine&nbsp;Fluchtgefahr&nbsp;besteht&nbsp;oder&nbsp;die&nbsp;öffentliche&nbsp;Sicherheit&nbsp;erheblich&nbsp;gefährdet&nbsp;ist.</p><p>(4)&nbsp;Die&nbsp;Zeit&nbsp;der&nbsp;Untersuchungshaft&nbsp;kann&nbsp;durch&nbsp;das&nbsp;Gericht&nbsp;an&nbsp;ein&nbsp;späteres&nbsp;Strafmaß&nbsp;angerechnet&nbsp;werden.</p><p></p>",
+        "body": "<p>(1)&nbsp;Eine&nbsp;Untersuchungshaft&nbsp;darf&nbsp;nur&nbsp;auf&nbsp;Grundlage&nbsp;einer&nbsp;richterlichen&nbsp;Anordnung&nbsp;erfolgen.&nbsp;</p><p>(2)&nbsp;Ist&nbsp;das&nbsp;zuständige&nbsp;Gericht&nbsp;nicht&nbsp;erreichbar,&nbsp;kann&nbsp;das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;in&nbsp;dringenden&nbsp;Fällen&nbsp;eine&nbsp;vorläufige&nbsp;Anordnung&nbsp;treffen.&nbsp;Der&nbsp;Antrag&nbsp;ist&nbsp;unverzüglich&nbsp;nachträglich&nbsp;beim&nbsp;Gericht&nbsp;einzureichen.</p><p>(3)&nbsp;Die&nbsp;Untersuchungshaft&nbsp;ist&nbsp;nur&nbsp;zulässig,&nbsp;wenn&nbsp;eine&nbsp;Fluchtgefahr&nbsp;besteht&nbsp;oder&nbsp;die&nbsp;öffentliche&nbsp;Sicherheit&nbsp;erheblich&nbsp;gefährdet&nbsp;ist.</p><p>(4)&nbsp;Die&nbsp;Zeit&nbsp;der&nbsp;Untersuchungshaft&nbsp;kann&nbsp;durch&nbsp;das&nbsp;Gericht&nbsp;an&nbsp;ein&nbsp;späteres&nbsp;Strafmaß&nbsp;angerechnet&nbsp;werden.</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T08:13:23.6566260Z"
+        "updatedUtc": "2025-11-04T22:09:10.1061040Z"
     },
     {
         "id": "b9e45fc7-fd83-4231-9aff-0adb7dc75cce",
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 4 Durchsuchungen",
-        "body": "<p>(1)&nbsp;Personen&nbsp;dürfen&nbsp;durchsucht&nbsp;werden,&nbsp;wenn&nbsp;sie&nbsp;rechtmäßig&nbsp;festgenommen&nbsp;worden&nbsp;sind&nbsp;oder&nbsp;wenn&nbsp;schwerwiegende&nbsp;tatsächliche&nbsp;Anhaltspunkte&nbsp;bestehen,&nbsp;dass&nbsp;sie&nbsp;Waffen,&nbsp;Drogen,&nbsp;Medikamente&nbsp;in&nbsp;ungewöhnlich&nbsp;hoher&nbsp;Menge,&nbsp;Beweismittel&nbsp;oder&nbsp;andere&nbsp;verbotene&nbsp;oder&nbsp;gefährliche&nbsp;Gegenstände&nbsp;mit&nbsp;sich&nbsp;führen.</p><p>(2)&nbsp;Mitgeführte&nbsp;Gegenstände&nbsp;dürfen&nbsp;durchsucht&nbsp;werden,</p><p>wenn&nbsp;anzunehmen&nbsp;ist,&nbsp;dass&nbsp;sich&nbsp;darin&nbsp;Beweise&nbsp;oder&nbsp;illegale&nbsp;Gegenstände&nbsp;befinden.</p><p>(3)&nbsp;Fahrzeuge&nbsp;dürfen&nbsp;nach&nbsp;telefonischer&nbsp;oder&nbsp;sonstiger&nbsp;richterlicher&nbsp;Anordnung&nbsp;durchsucht&nbsp;werden.&nbsp;Wenn&nbsp;ein&nbsp;Richter&nbsp;nicht&nbsp;zeitnah&nbsp;über&nbsp;die&nbsp;Maßnahme&nbsp;entscheiden&nbsp;kann,&nbsp;so&nbsp;kann&nbsp;eine&nbsp;Durchsuchung&nbsp;unter&nbsp;den&nbsp;Maßgaben&nbsp;des&nbsp;Abs.&nbsp;1&nbsp;erfolgen.&nbsp;</p><p>(4)&nbsp;Die&nbsp;Durchsuchung&nbsp;von&nbsp;Wohnungen,&nbsp;geschlossenen&nbsp;Räumen&nbsp;oder&nbsp;Grundstücken&nbsp;bedarf&nbsp;einer&nbsp;richterlichen&nbsp;Anordnung.&nbsp;Das&nbsp;Betreten&nbsp;von&nbsp;Grundstücken&nbsp;ist&nbsp;nach&nbsp;den&nbsp;tatsächlichen&nbsp;Anhaltspunkte&nbsp;gemäß&nbsp;Abs.&nbsp;1&nbsp;gestattet.</p><p>(5) Durchsuchungsbeschlüsse für Wohnungen, geschlossenen Räumen oder Grundstücken werden grundsätzlich nur auf Antrag des District Attorney’s Office ausgestellt.</p><p>(6) Bei Gefahr im Verzug kann ein Durchsuchungsbeschluss ausnahmsweise auch ohne vorherigen Antrag des District Attorney’s Office ergehen und unmittelbar von der Exekutive oder dem Gericht angeordnet werden. Die Gründe für die Eilmaßnahme sind im Beschluss zu dokumentieren.</p><p>(7)&nbsp;Bei&nbsp;Abwesenheit&nbsp;des&nbsp;State&nbsp;Courts&nbsp;kann&nbsp;die&nbsp;Exekutive&nbsp;bei&nbsp;Gefahr&nbsp;im&nbsp;Verzug&nbsp;die&nbsp;Durchsuchung&nbsp;ohne&nbsp;vorangegangene&nbsp;richterliche&nbsp;Anordnung&nbsp;durchführen.&nbsp;Eine&nbsp;richterliche&nbsp;Bestätigung&nbsp;ist&nbsp;unverzüglich&nbsp;nachzuholen.</p><p>&nbsp;</p>",
+        "body": "<p>(1)&nbsp;Personen&nbsp;dürfen&nbsp;durchsucht&nbsp;werden,&nbsp;wenn&nbsp;sie&nbsp;rechtmäßig&nbsp;festgenommen&nbsp;worden&nbsp;sind&nbsp;oder&nbsp;wenn&nbsp;schwerwiegende&nbsp;tatsächliche&nbsp;Anhaltspunkte&nbsp;bestehen,&nbsp;dass&nbsp;sie&nbsp;Waffen,&nbsp;Drogen,&nbsp;Medikamente&nbsp;in&nbsp;ungewöhnlich&nbsp;hoher&nbsp;Menge,&nbsp;Beweismittel&nbsp;oder&nbsp;andere&nbsp;verbotene&nbsp;oder&nbsp;gefährliche&nbsp;Gegenstände&nbsp;mit&nbsp;sich&nbsp;führen.</p><p>(2)&nbsp;Mitgeführte&nbsp;Gegenstände&nbsp;dürfen&nbsp;durchsucht&nbsp;werden,</p><p>wenn&nbsp;anzunehmen&nbsp;ist,&nbsp;dass&nbsp;sich&nbsp;darin&nbsp;Beweise&nbsp;oder&nbsp;illegale&nbsp;Gegenstände&nbsp;befinden.</p><p>(3)&nbsp;Fahrzeuge&nbsp;dürfen&nbsp;nach&nbsp;telefonischer&nbsp;oder&nbsp;sonstiger&nbsp;richterlicher&nbsp;Anordnung&nbsp;durchsucht&nbsp;werden.&nbsp;Wenn&nbsp;ein&nbsp;Richter&nbsp;nicht&nbsp;zeitnah&nbsp;über&nbsp;die&nbsp;Maßnahme&nbsp;entscheiden&nbsp;kann,&nbsp;so&nbsp;kann&nbsp;eine&nbsp;Durchsuchung&nbsp;unter&nbsp;den&nbsp;Maßgaben&nbsp;des&nbsp;Abs.&nbsp;1&nbsp;erfolgen.&nbsp;</p><p>(4)&nbsp;Die&nbsp;Durchsuchung&nbsp;von&nbsp;Wohnungen,&nbsp;geschlossenen&nbsp;Räumen&nbsp;oder&nbsp;Grundstücken&nbsp;bedarf&nbsp;einer&nbsp;richterlichen&nbsp;Anordnung.&nbsp;Das&nbsp;Betreten&nbsp;von&nbsp;Grundstücken&nbsp;ist&nbsp;nach&nbsp;den&nbsp;tatsächlichen&nbsp;Anhaltspunkte&nbsp;gemäß&nbsp;Abs.&nbsp;1&nbsp;gestattet.</p><p>(5) Durchsuchungsbeschlüsse für Wohnungen, geschlossenen Räumen oder Grundstücken werden grundsätzlich nur auf Antrag des District Attorney’s Office ausgestellt.</p><p>(6) Bei Gefahr im Verzug kann ein Durchsuchungsbeschluss ausnahmsweise auch ohne vorherigen Antrag des District Attorney’s Office ergehen und unmittelbar von der Exekutive oder dem Gericht angeordnet werden. Die Gründe für die Eilmaßnahme sind im Beschluss zu dokumentieren.</p><p>(7)&nbsp;Bei&nbsp;Abwesenheit&nbsp;des&nbsp;State&nbsp;Courts&nbsp;kann&nbsp;die&nbsp;Exekutive&nbsp;bei&nbsp;Gefahr&nbsp;im&nbsp;Verzug&nbsp;die&nbsp;Durchsuchung&nbsp;ohne&nbsp;vorangegangene&nbsp;richterliche&nbsp;Anordnung&nbsp;durchführen.&nbsp;Eine&nbsp;richterliche&nbsp;Bestätigung&nbsp;ist&nbsp;unverzüglich&nbsp;nachzuholen.</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-26T15:13:41.2390270Z"
+        "updatedUtc": "2025-11-04T22:09:15.2414020Z"
     },
     {
         "id": "46ad0ca5-b1da-4852-b36f-f5e21c13f37b",
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 5 Sicherstellung",
-        "body": "<p>(1)&nbsp;Die&nbsp;Exekutive&nbsp;kann&nbsp;Gegenstände&nbsp;sicherstellen,&nbsp;wenn&nbsp;diese&nbsp;freiwillig&nbsp;herausgegeben&nbsp;werden.&nbsp;Gegenstände&nbsp;können&nbsp;gegen&nbsp;den&nbsp;Willen&nbsp;des&nbsp;Eigentümers&nbsp;sichergestellt&nbsp;werden,&nbsp;wenn&nbsp;es&nbsp;sich&nbsp;um&nbsp;Beweismittel&nbsp;nach&nbsp;Abs.&nbsp;2&nbsp;handelt.&nbsp;</p><p>(2)&nbsp;Beweismittel&nbsp;können&nbsp;alle&nbsp;relevanten&nbsp;Dinge,&nbsp;welche&nbsp;einen&nbsp;Beweis&nbsp;für&nbsp;eine&nbsp;illegale&nbsp;Handlung&nbsp;darstellen,&nbsp;sein.</p><p>(3)&nbsp;Bei&nbsp;einer&nbsp;Festnahme&nbsp;dürfen&nbsp;sämtliche&nbsp;bei&nbsp;der&nbsp;Person&nbsp;gefundenen&nbsp;Gegenstände&nbsp;als&nbsp;Beweismittel&nbsp;gesichert&nbsp;werden,&nbsp;davon&nbsp;ausgeschlossen&nbsp;ist&nbsp;Verpflegung.</p><p>(4)&nbsp;Sichergestellte&nbsp;Gegenstände&nbsp;sind&nbsp;zu&nbsp;dokumentieren,&nbsp;sicher&nbsp;aufzubewahren&nbsp;und&nbsp;für&nbsp;eine&nbsp;Nutzung&nbsp;durch&nbsp;die&nbsp;Exekutive&nbsp;ausgeschlossen.</p><p>(5)&nbsp;Beweismittel,&nbsp;die&nbsp;nicht&nbsp;als&nbsp;illegal&nbsp;eingestuft&nbsp;sind,&nbsp;sind&nbsp;nach&nbsp;Abschluss&nbsp;des&nbsp;Verfahrens&nbsp;zurückzugeben.</p><p></p>",
+        "body": "<p>(1)&nbsp;Die&nbsp;Exekutive&nbsp;kann&nbsp;Gegenstände&nbsp;sicherstellen,&nbsp;wenn&nbsp;diese&nbsp;freiwillig&nbsp;herausgegeben&nbsp;werden.&nbsp;Gegenstände&nbsp;können&nbsp;gegen&nbsp;den&nbsp;Willen&nbsp;des&nbsp;Eigentümers&nbsp;sichergestellt&nbsp;werden,&nbsp;wenn&nbsp;es&nbsp;sich&nbsp;um&nbsp;Beweismittel&nbsp;nach&nbsp;Abs.&nbsp;2&nbsp;handelt.&nbsp;</p><p>(2)&nbsp;Beweismittel&nbsp;können&nbsp;alle&nbsp;relevanten&nbsp;Dinge,&nbsp;welche&nbsp;einen&nbsp;Beweis&nbsp;für&nbsp;eine&nbsp;illegale&nbsp;Handlung&nbsp;darstellen,&nbsp;sein.</p><p>(3)&nbsp;Bei&nbsp;einer&nbsp;Festnahme&nbsp;dürfen&nbsp;sämtliche&nbsp;bei&nbsp;der&nbsp;Person&nbsp;gefundenen&nbsp;Gegenstände&nbsp;als&nbsp;Beweismittel&nbsp;gesichert&nbsp;werden,&nbsp;davon&nbsp;ausgeschlossen&nbsp;ist&nbsp;Verpflegung.</p><p>(4)&nbsp;Sichergestellte&nbsp;Gegenstände&nbsp;sind&nbsp;zu&nbsp;dokumentieren,&nbsp;sicher&nbsp;aufzubewahren&nbsp;und&nbsp;für&nbsp;eine&nbsp;Nutzung&nbsp;durch&nbsp;die&nbsp;Exekutive&nbsp;ausgeschlossen.</p><p>(5)&nbsp;Beweismittel,&nbsp;die&nbsp;nicht&nbsp;als&nbsp;illegal&nbsp;eingestuft&nbsp;sind,&nbsp;sind&nbsp;nach&nbsp;Abschluss&nbsp;des&nbsp;Verfahrens&nbsp;zurückzugeben.</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T08:15:17.7136190Z"
+        "updatedUtc": "2025-11-04T22:09:05.1677800Z"
     },
     {
         "id": "f657ab6a-3c7b-449e-9e37-4817a2d2d1cd",
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 6 Platzverweis",
-        "body": "<p>(1)&nbsp;Die&nbsp;Exekutive&nbsp;kann&nbsp;Personen&nbsp;von&nbsp;einem&nbsp;Platz&nbsp;verweisen&nbsp;oder&nbsp;ihnen&nbsp;das&nbsp;Betreten&nbsp;versagen,&nbsp;wenn&nbsp;dies&nbsp;für&nbsp;Ermittlungszwecke&nbsp;oder&nbsp;Schutz&nbsp;der&nbsp;öffentlichen&nbsp;Ordnung&nbsp;erforderlich&nbsp;ist.</p><p>(2)&nbsp;Auf&nbsp;Antrag&nbsp;des&nbsp;Eigentümers&nbsp;kann&nbsp;ein&nbsp;Platzverweis&nbsp;von&nbsp;privatem&nbsp;Grund&nbsp;verhängt&nbsp;und&nbsp;durchgesetzt&nbsp;werden.</p><p>(3)&nbsp;Kommt&nbsp;eine&nbsp;Person&nbsp;der&nbsp;Anordnung&nbsp;nicht&nbsp;nach,&nbsp;kann&nbsp;sie&nbsp;zur&nbsp;weiteren&nbsp;Klärung&nbsp;oder&nbsp;Durchsetzung&nbsp;der&nbsp;Maßnahme&nbsp;zur&nbsp;Dienststelle&nbsp;begleitet&nbsp;werden.&nbsp;</p><p></p>",
+        "body": "<p>(1)&nbsp;Die&nbsp;Exekutive&nbsp;kann&nbsp;Personen&nbsp;von&nbsp;einem&nbsp;Platz&nbsp;verweisen&nbsp;oder&nbsp;ihnen&nbsp;das&nbsp;Betreten&nbsp;versagen,&nbsp;wenn&nbsp;dies&nbsp;für&nbsp;Ermittlungszwecke&nbsp;oder&nbsp;Schutz&nbsp;der&nbsp;öffentlichen&nbsp;Ordnung&nbsp;erforderlich&nbsp;ist.</p><p>(2)&nbsp;Auf&nbsp;Antrag&nbsp;des&nbsp;Eigentümers&nbsp;kann&nbsp;ein&nbsp;Platzverweis&nbsp;von&nbsp;privatem&nbsp;Grund&nbsp;verhängt&nbsp;und&nbsp;durchgesetzt&nbsp;werden.</p><p>(3)&nbsp;Kommt&nbsp;eine&nbsp;Person&nbsp;der&nbsp;Anordnung&nbsp;nicht&nbsp;nach,&nbsp;kann&nbsp;sie&nbsp;zur&nbsp;weiteren&nbsp;Klärung&nbsp;oder&nbsp;Durchsetzung&nbsp;der&nbsp;Maßnahme&nbsp;zur&nbsp;Dienststelle&nbsp;begleitet&nbsp;werden.&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T08:16:42.3298820Z"
+        "updatedUtc": "2025-11-04T22:09:22.6718810Z"
     },
     {
         "id": "2b15fa39-89fb-4cac-ba70-e9b6769464d9",
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 7 Erkennungsdienstliche Maßnahmen",
-        "body": "<p>(1)&nbsp;Die&nbsp;Exekutive&nbsp;kann&nbsp;erkennungsdienstliche&nbsp;Maßnahmen&nbsp;durchführen,&nbsp;wenn&nbsp;dies&nbsp;für&nbsp;ein&nbsp;laufendes&nbsp;Strafverfahren&nbsp;oder&nbsp;die&nbsp;Gefahrenabwehr&nbsp;erforderlich&nbsp;ist.</p><p>(2)&nbsp;Zu&nbsp;diesen&nbsp;Maßnahmen&nbsp;gehören&nbsp;insbesondere:</p><ol><li>die&nbsp;Aufnahme&nbsp;von&nbsp;Lichtbildern,</li><li>die&nbsp;Abnahme&nbsp;von&nbsp;Fingerabdrücken,</li><li>die&nbsp;Feststellung&nbsp;äußerer&nbsp;Merkmale&nbsp;wie&nbsp;Tattoos,&nbsp;Narben&nbsp;oder&nbsp;besondere&nbsp;Kennzeichen.</li></ol><p></p>",
+        "body": "<p>(1)&nbsp;Die&nbsp;Exekutive&nbsp;kann&nbsp;erkennungsdienstliche&nbsp;Maßnahmen&nbsp;durchführen,&nbsp;wenn&nbsp;dies&nbsp;für&nbsp;ein&nbsp;laufendes&nbsp;Strafverfahren&nbsp;oder&nbsp;die&nbsp;Gefahrenabwehr&nbsp;erforderlich&nbsp;ist.</p><p>(2)&nbsp;Zu&nbsp;diesen&nbsp;Maßnahmen&nbsp;gehören&nbsp;insbesondere:</p><ol><li data-list-item-id=\"e60c15fa79f7b4f622f7a5ef2b1b14e5a\">die&nbsp;Aufnahme&nbsp;von&nbsp;Lichtbildern,</li><li data-list-item-id=\"e1fcfd80f5a8808ff480ddd10ae6723ce\">die&nbsp;Abnahme&nbsp;von&nbsp;Fingerabdrücken,</li><li data-list-item-id=\"ee832c2ce512c5a5165c8e6850159370b\">die&nbsp;Feststellung&nbsp;äußerer&nbsp;Merkmale&nbsp;wie&nbsp;Tattoos,&nbsp;Narben&nbsp;oder&nbsp;besondere&nbsp;Kennzeichen.</li></ol>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T08:17:59.1259730Z"
+        "updatedUtc": "2025-11-04T22:09:29.1595970Z"
     },
     {
         "id": "b5759227-d663-4f63-9569-c5d51713bbc5",
@@ -1304,10 +1304,10 @@
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 12 Anträge im Ermittlungsverfahren",
-        "body": "<p>(1)&nbsp;Während&nbsp;laufender&nbsp;Ermittlungen&nbsp;können&nbsp;Anträge&nbsp;durch das District Attorney's Office gestellt&nbsp;werden,&nbsp;die&nbsp;sich&nbsp;auf&nbsp;die&nbsp;Durchführung&nbsp;von&nbsp;Sicherstellungen,&nbsp;Durchsuchungen&nbsp;oder&nbsp;sonstigen&nbsp;Ermittlungsmaßnahmen&nbsp;beziehen.&nbsp;</p><p>(2)&nbsp;Über&nbsp;deren&nbsp;Zulässigkeit&nbsp;entscheidet&nbsp;die&nbsp;zuständige&nbsp;Ermittlungsbehörde&nbsp;oder,&nbsp;sofern&nbsp;richterliche&nbsp;Anordnung&nbsp;erforderlich&nbsp;ist,&nbsp;das&nbsp;dafür&nbsp;zuständige&nbsp;Gericht&nbsp;nach&nbsp;mündlicher&nbsp;Anhörung.&nbsp;</p><p>(3)&nbsp;Unternehmen&nbsp;sind&nbsp;verpflichtet,&nbsp;Informationen&nbsp;an&nbsp;Ermittler&nbsp;herauszugeben,&nbsp;sofern&nbsp;eine&nbsp;entsprechende&nbsp;richterliche&nbsp;Bewilligung&nbsp;vorliegt.&nbsp;</p><p>(3a)&nbsp;Auskünfte&nbsp;über&nbsp;persönliche&nbsp;Daten&nbsp;von&nbsp;staatlichen&nbsp;Einrichtungen,&nbsp;sowie Behandlungsakten von medizinische&nbsp;Einrichtungen,&nbsp;sind&nbsp;ohne&nbsp;richterliche&nbsp;Bewilligung&nbsp;an&nbsp;das&nbsp;District Attorney's Office herauszugeben.</p>",
+        "body": "<p>(1)&nbsp;Während&nbsp;laufender&nbsp;Ermittlungen&nbsp;können&nbsp;Anträge&nbsp;durch das District Attorney's Office gestellt&nbsp;werden,&nbsp;die&nbsp;sich&nbsp;auf&nbsp;die&nbsp;Durchführung&nbsp;von&nbsp;Sicherstellungen,&nbsp;Durchsuchungen&nbsp;oder&nbsp;sonstigen&nbsp;Ermittlungsmaßnahmen&nbsp;beziehen</p><p>(2)&nbsp;Über&nbsp;deren&nbsp;Zulässigkeit&nbsp;entscheidet&nbsp;die&nbsp;zuständige&nbsp;Ermittlungsbehörde&nbsp;oder,&nbsp;sofern&nbsp;richterliche&nbsp;Anordnung&nbsp;erforderlich&nbsp;ist,&nbsp;das&nbsp;dafür&nbsp;zuständige&nbsp;Gericht&nbsp;nach&nbsp;mündlicher&nbsp;Anhörung</p><p>(3)&nbsp;Unternehmen&nbsp;sind&nbsp;verpflichtet,&nbsp;Informationen&nbsp;an&nbsp;Ermittler&nbsp;herauszugeben,&nbsp;sofern&nbsp;eine&nbsp;entsprechende&nbsp;richterliche&nbsp;Bewilligung&nbsp;vorliegt.&nbsp;</p><p>(3a)&nbsp;Auskünfte&nbsp;über&nbsp;persönliche&nbsp;Daten&nbsp;von&nbsp;staatlichen&nbsp;Einrichtungen,&nbsp;sowie Behandlungsakten von medizinische&nbsp;Einrichtungen,&nbsp;sind&nbsp;ohne&nbsp;richterliche&nbsp;Bewilligung&nbsp;an&nbsp;das&nbsp;District Attorney's Office herauszugeben.</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-29T19:07:42.5107960Z"
+        "updatedUtc": "2025-11-03T21:00:01.9931220Z"
     },
     {
         "id": "b1ccc557-7a3e-4e56-9d68-648e61730dae",
@@ -1334,20 +1334,20 @@
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 14 Rechte der Beschuldigten",
-        "body": "<p>(1)&nbsp;Jedem&nbsp;Beschuldigten&nbsp;ist&nbsp;der&nbsp;Grund&nbsp;seiner&nbsp;Festnahme&nbsp;mitzuteilen.</p><p>(2)&nbsp;Er&nbsp;hat&nbsp;das&nbsp;Recht&nbsp;zu&nbsp;schweigen,&nbsp;das&nbsp;Recht&nbsp;auf&nbsp;anwaltlichen&nbsp;Beistand&nbsp;und&nbsp;das&nbsp;Recht&nbsp;auf&nbsp;einen&nbsp;Anruf,&nbsp;um&nbsp;einen&nbsp;Anwalt&nbsp;oder&nbsp;Angehörigen&nbsp;zu&nbsp;informieren.</p><p>(3)&nbsp;Der&nbsp;Beschuldigte&nbsp;hat&nbsp;das&nbsp;Recht,&nbsp;ungestört&nbsp;und&nbsp;unbeobachtet&nbsp;mit&nbsp;seinem&nbsp;Rechtsbeistand&nbsp;zu&nbsp;reden.&nbsp;Inhalte&nbsp;der&nbsp;Gespräche&nbsp;zwischen&nbsp;Rechtsbeistand&nbsp;und&nbsp;Mandant&nbsp;dürfen&nbsp;nicht&nbsp;von&nbsp;Außenstehenden&nbsp;in&nbsp;Erfahrung&nbsp;gebracht&nbsp;werden.</p><p>&nbsp;</p>",
+        "body": "<p>(1)&nbsp;Jedem&nbsp;Beschuldigten&nbsp;ist&nbsp;der&nbsp;Grund&nbsp;seiner&nbsp;Festnahme&nbsp;mitzuteilen.</p><p>(2)&nbsp;Er&nbsp;hat&nbsp;das&nbsp;Recht&nbsp;zu&nbsp;schweigen,&nbsp;das&nbsp;Recht&nbsp;auf&nbsp;anwaltlichen&nbsp;Beistand&nbsp;und&nbsp;das&nbsp;Recht&nbsp;auf&nbsp;einen&nbsp;Anruf,&nbsp;um&nbsp;einen&nbsp;Anwalt&nbsp;oder&nbsp;Angehörigen&nbsp;zu&nbsp;informieren.</p><p>(3)&nbsp;Der&nbsp;Beschuldigte&nbsp;hat&nbsp;das&nbsp;Recht,&nbsp;ungestört&nbsp;und&nbsp;unbeobachtet&nbsp;mit&nbsp;seinem&nbsp;Rechtsbeistand&nbsp;zu&nbsp;reden.&nbsp;Inhalte&nbsp;der&nbsp;Gespräche&nbsp;zwischen&nbsp;Rechtsbeistand&nbsp;und&nbsp;Mandant&nbsp;dürfen&nbsp;nicht&nbsp;von&nbsp;Außenstehenden&nbsp;in&nbsp;Erfahrung&nbsp;gebracht&nbsp;werden.</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-11-02T14:45:13.2339580Z"
+        "updatedUtc": "2025-11-04T22:04:41.2715050Z"
     },
     {
         "id": "42c4acbf-3608-4fe8-87f6-b225fffe1896",
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 15 Rechte der Verteidigung",
-        "body": "<p>(1)&nbsp;Anwälte&nbsp;vertreten&nbsp;die&nbsp;Interessen&nbsp;der&nbsp;Mandanten.</p><p>(2)&nbsp;Anwälte&nbsp;haben&nbsp;das&nbsp;Recht,&nbsp;Akteneinsicht&nbsp;zu&nbsp;erhalten,&nbsp;sofern&nbsp;dadurch&nbsp;keine&nbsp;laufenden&nbsp;Ermittlungen&nbsp;gefährdet&nbsp;werden.&nbsp;</p><p>(3)&nbsp;Anwälte&nbsp;dürfen&nbsp;bei&nbsp;jeder&nbsp;Kommunikation&nbsp;mit&nbsp;ihrem&nbsp;Mandanten&nbsp;anwesend&nbsp;sein.</p><p>(4)&nbsp;Vernehmungen&nbsp;eines&nbsp;Mandanten,&nbsp;die&nbsp;nicht&nbsp;im&nbsp;Beisein&nbsp;des&nbsp;Verteidigers&nbsp;stattgefunden&nbsp;haben,&nbsp;sind&nbsp;auf&nbsp;Antrag&nbsp;überprüfbar.</p><p>(4)&nbsp;Anwälte&nbsp;dürfen&nbsp;bei&nbsp;Durchsuchungen,&nbsp;Festnahmen&nbsp;und&nbsp;Anhörungen&nbsp;anwesend&nbsp;sein,&nbsp;dürfen&nbsp;jedoch&nbsp;den&nbsp;Ablauf&nbsp;der&nbsp;Maßnahme&nbsp;nicht&nbsp;behindern.</p><p>(5)&nbsp;Anwälten&nbsp;sind&nbsp;nach&nbsp;Abschluss&nbsp;der&nbsp;erkennungsdienstlichen&nbsp;Maßnahme&nbsp;Zugang&nbsp;zum&nbsp;Mandanten&nbsp;zu&nbsp;gewähren.</p><p>(6)&nbsp;Anwälte&nbsp;sind&nbsp;zur&nbsp;Verschwiegenheit&nbsp;gegenüber&nbsp;Dritten&nbsp;verpflichtet,&nbsp;außer&nbsp;der&nbsp;Mandant&nbsp;entbindet&nbsp;ihn&nbsp;von&nbsp;dieser.&nbsp;Erlangte&nbsp;Informationen&nbsp;dürfen&nbsp;jedoch&nbsp;im&nbsp;Rahmen&nbsp;der&nbsp;anwaltlichen&nbsp;Tätigkeiten&nbsp;an&nbsp;Dritte&nbsp;weitergegeben&nbsp;werden,&nbsp;um&nbsp;seinen&nbsp;Mandanten&nbsp;zu&nbsp;schützen&nbsp;oder&nbsp;dessen&nbsp;Interessen&nbsp;durchzusetzen.</p><p></p><p></p>",
+        "body": "<p>(1)&nbsp;Anwälte&nbsp;vertreten&nbsp;die&nbsp;Interessen&nbsp;der&nbsp;Mandanten.</p><p>(2)&nbsp;Anwälte&nbsp;haben&nbsp;das&nbsp;Recht,&nbsp;Akteneinsicht&nbsp;zu&nbsp;erhalten,&nbsp;sofern&nbsp;dadurch&nbsp;keine&nbsp;laufenden&nbsp;Ermittlungen&nbsp;gefährdet&nbsp;werden.&nbsp;</p><p>(3)&nbsp;Anwälte&nbsp;dürfen&nbsp;bei&nbsp;jeder&nbsp;Kommunikation&nbsp;mit&nbsp;ihrem&nbsp;Mandanten&nbsp;anwesend&nbsp;sein.</p><p>(4)&nbsp;Vernehmungen&nbsp;eines&nbsp;Mandanten,&nbsp;die&nbsp;nicht&nbsp;im&nbsp;Beisein&nbsp;des&nbsp;Verteidigers&nbsp;stattgefunden&nbsp;haben,&nbsp;sind&nbsp;auf&nbsp;Antrag&nbsp;überprüfbar.</p><p>(4)&nbsp;Anwälte&nbsp;dürfen&nbsp;bei&nbsp;Durchsuchungen,&nbsp;Festnahmen&nbsp;und&nbsp;Anhörungen&nbsp;anwesend&nbsp;sein,&nbsp;dürfen&nbsp;jedoch&nbsp;den&nbsp;Ablauf&nbsp;der&nbsp;Maßnahme&nbsp;nicht&nbsp;behindern.</p><p>(5)&nbsp;Anwälten&nbsp;sind&nbsp;nach&nbsp;Abschluss&nbsp;der&nbsp;erkennungsdienstlichen&nbsp;Maßnahme&nbsp;Zugang&nbsp;zum&nbsp;Mandanten&nbsp;zu&nbsp;gewähren.</p><p>(6)&nbsp;Anwälte&nbsp;sind&nbsp;zur&nbsp;Verschwiegenheit&nbsp;gegenüber&nbsp;Dritten&nbsp;verpflichtet,&nbsp;außer&nbsp;der&nbsp;Mandant&nbsp;entbindet&nbsp;ihn&nbsp;von&nbsp;dieser.&nbsp;Erlangte&nbsp;Informationen&nbsp;dürfen&nbsp;jedoch&nbsp;im&nbsp;Rahmen&nbsp;der&nbsp;anwaltlichen&nbsp;Tätigkeiten&nbsp;an&nbsp;Dritte&nbsp;weitergegeben&nbsp;werden,&nbsp;um&nbsp;seinen&nbsp;Mandanten&nbsp;zu&nbsp;schützen&nbsp;oder&nbsp;dessen&nbsp;Interessen&nbsp;durchzusetzen.</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-21T08:22:41.1700630Z"
+        "updatedUtc": "2025-11-13T12:37:18.5945140Z"
     },
     {
         "id": "62d06942-0289-4dac-b498-4373a2c151ab",
@@ -1403,61 +1403,61 @@
         "id": "aef07012-3daf-4b5c-845c-3d55e0be5d20",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 1 Grundlagen",
+        "name": "§ 5 Grundlagen",
         "body": "<p>(1)&nbsp;Als&nbsp;Waffe&nbsp;gilt&nbsp;jeder&nbsp;Gegenstand,&nbsp;der&nbsp;nach&nbsp;seiner&nbsp;Bauart&nbsp;oder&nbsp;bestimmungsgemäßen&nbsp;Verwendung&nbsp;dazu&nbsp;bestimmt&nbsp;ist,&nbsp;im&nbsp;Kampfeinsatz&nbsp;Verletzungen&nbsp;zuzufügen,&nbsp;einen&nbsp;Menschen&nbsp;zu&nbsp;töten&nbsp;oder&nbsp;der&nbsp;Selbstverteidigung&nbsp;zu&nbsp;dienen.&nbsp;Maßgeblich&nbsp;ist&nbsp;dabei&nbsp;der&nbsp;Zweck,&nbsp;einem&nbsp;Menschen&nbsp;durch&nbsp;den&nbsp;Einsatz&nbsp;des&nbsp;Gegenstands&nbsp;erhebliche&nbsp;Verletzungen&nbsp;zufügen&nbsp;zu&nbsp;können.</p><p>(2)&nbsp;Die&nbsp;Waffenkategorien&nbsp;gliedern&nbsp;sich&nbsp;in&nbsp;Wurf-,&nbsp;Hieb-,&nbsp;Stich-&nbsp;und&nbsp;Schusswaffen.&nbsp;Schusswaffen&nbsp;werden&nbsp;nach&nbsp;Lauflänge&nbsp;in&nbsp;Kurzwaffe&nbsp;und&nbsp;Langwaffe&nbsp;unterteilt.</p><p>(3)&nbsp;Der&nbsp;Besitz,&nbsp;das&nbsp;Mitführen&nbsp;oder&nbsp;das&nbsp;Abfeuern&nbsp;von&nbsp;Langwaffe&nbsp;und&nbsp;deren&nbsp;Munition&nbsp;–&nbsp;auch&nbsp;auf&nbsp;Privatbesitz&nbsp;–&nbsp;sind&nbsp;verboten&nbsp;und&nbsp;strafbar.</p><p>(4)&nbsp;Als&nbsp;legale&nbsp;Kurzwaffe&nbsp;gelten&nbsp;ausschließlich&nbsp;das&nbsp;folgende&nbsp;Modell:&nbsp;SNS&nbsp;Pistole.</p><p>&nbsp;Der&nbsp;Besitz,&nbsp;das&nbsp;Mitführen&nbsp;oder&nbsp;das&nbsp;Abfeuern&nbsp;sonstiger&nbsp;Kurzwaffe&nbsp;sind&nbsp;verboten&nbsp;und&nbsp;strafbar.</p><p>(5)&nbsp;Mit&nbsp;Ausnahme&nbsp;von&nbsp;Taschenlampen&nbsp;sind&nbsp;sämtliche&nbsp;Anbauteile,&nbsp;Zubehörteile&nbsp;und&nbsp;Aufsätze&nbsp;für&nbsp;Waffen&nbsp;verboten.</p><p>(6)&nbsp;Hieb-,&nbsp;Wurf-&nbsp;und&nbsp;Stichwaffen&nbsp;sind&nbsp;verboten.</p><p>Ausgenommen&nbsp;sind&nbsp;Gegenstände,&nbsp;die&nbsp;primär&nbsp;für&nbsp;landwirtschaftliche&nbsp;Tätigkeiten&nbsp;bestimmt&nbsp;sind,&nbsp;sowie&nbsp;Klingen&nbsp;mit&nbsp;einer&nbsp;Länge&nbsp;unter&nbsp;15&nbsp;cm.</p><p>(7)&nbsp;Gegenstände,&nbsp;die&nbsp;ihrem&nbsp;Ursprung&nbsp;nach&nbsp;zur&nbsp;Ausübung&nbsp;einer&nbsp;Sportart&nbsp;bestimmt&nbsp;sind,&nbsp;gelten&nbsp;nicht&nbsp;als&nbsp;Waffen.</p><p></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-23T07:13:25.7175490Z"
+        "updatedUtc": "2025-11-17T20:58:21.5079170Z"
     },
     {
         "id": "f94c6bb2-1131-4497-a716-a668890fba49",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 1a Öffentliches Tragen von Schusswaffen",
+        "name": "§ 5a Öffentliches Tragen von Schusswaffen",
         "body": "<p>(1) Das sichtbare Tragen jeglicher Schusswaffen in der Öffentlichkeit ist untersagt. Sichtbar getragen sind Waffen, die offen am Körper, in einem Holster, an einem Gürtel, über der Schulter, in der Hand oder sonst in einer Weise mitgeführt werden, dass sie für Dritte erkennbar sind.<br>(2) Das verdeckte Mitführen von rechtmäßig im Besitz befindlichen Schusswaffen ist nur mit gültigem Waffenschein zulässig; die Waffe hat so geführt zu werden, dass sie für Dritte nicht erkennbar ist.<br>(3) Das Mitführen oder Zeigen illegaler Schusswaffen ist in jeglicher Form verboten.<br>(4) Verstöße gegen Abs. 1-3 können mit bis zu 1.500 Dollar bestraft werden.</p>",
         "fineAmountMin": 0.00,
         "fineAmountMax": 1500.00,
-        "updatedUtc": "2025-11-01T17:20:40.3398010Z"
+        "updatedUtc": "2025-11-17T20:58:39.4452450Z"
     },
     {
         "id": "a4a77932-855c-45e7-924a-c2fca0eff66e",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 2  Waffenschein",
+        "name": "§ 6  Waffenschein",
         "body": "<p>(1)&nbsp;Der&nbsp;Erwerb,&nbsp;Besitz&nbsp;und&nbsp;das&nbsp;Mitführen&nbsp;von&nbsp;Waffen&nbsp;im&nbsp;Sinne&nbsp;des&nbsp;§&nbsp;1&nbsp;sind&nbsp;nur&nbsp;mit&nbsp;einem&nbsp;gültigen&nbsp;Waffenschein&nbsp;zulässig.</p><p>(2)&nbsp;Für&nbsp;Langwaffen&nbsp;sowie&nbsp;Hieb-,&nbsp;Stich-&nbsp;oder&nbsp;Wurfwaffen,&nbsp;die&nbsp;nicht&nbsp;unter&nbsp;die&nbsp;in&nbsp;§&nbsp;1&nbsp;Abs.&nbsp;7&nbsp;genannte&nbsp;Ausnahme&nbsp;fallen,&nbsp;darf&nbsp;kein&nbsp;Waffenschein&nbsp;erteilt&nbsp;werden.</p><p>(3)&nbsp;Der&nbsp;Besitz,&nbsp;Erwerb&nbsp;und&nbsp;das&nbsp;Mitführen&nbsp;legaler&nbsp;Feuerwaffen&nbsp;setzt&nbsp;eine&nbsp;entsprechende&nbsp;Waffenlizenz&nbsp;(Waffenschein)&nbsp;voraus.</p><p>(4)&nbsp;Jeder&nbsp;Bürger&nbsp;kann&nbsp;beim&nbsp;Los&nbsp;Santos&nbsp;Police&nbsp;Department&nbsp;einen&nbsp;Antrag&nbsp;auf&nbsp;Erteilung&nbsp;eines&nbsp;Waffenscheins&nbsp;zum&nbsp;Selbstschutz&nbsp;stellen.&nbsp;Im&nbsp;Rahmen&nbsp;des&nbsp;Waffenscheins&nbsp;darf&nbsp;die&nbsp;SNS&nbsp;Pistole&nbsp;geführt&nbsp;werden.&nbsp;Personen&nbsp;mit&nbsp;einschlägigen&nbsp;Vorstrafen&nbsp;sind&nbsp;von&nbsp;Absatz&nbsp;4&nbsp;ausgeschlossen.&nbsp;</p><p>(5)&nbsp;Das&nbsp;Ausstellen&nbsp;eines&nbsp;Waffenscheins&nbsp;obliegt&nbsp;den&nbsp;zuständigen&nbsp;Beamten.&nbsp;Die&nbsp;Entscheidung&nbsp;erfolgt&nbsp;nach&nbsp;pflichtgemäßem&nbsp;Ermessen&nbsp;und&nbsp;unter&nbsp;Prüfung&nbsp;der&nbsp;persönlichen&nbsp;Eignung.</p><p>(6)&nbsp;Der&nbsp;Besitz&nbsp;oder&nbsp;das&nbsp;Führen&nbsp;einer&nbsp;Waffe&nbsp;ohne&nbsp;gültigen&nbsp;Waffenschein&nbsp;kann&nbsp;mit&nbsp;einem&nbsp;Bußgeld&nbsp;von&nbsp;bis&nbsp;zu&nbsp;3.000&nbsp;Dollar&nbsp;bestraft&nbsp;werden.</p><p></p>",
         "fineAmountMin": 0.00,
         "fineAmountMax": 3000.00,
-        "updatedUtc": "2025-10-24T07:05:29.7730410Z"
+        "updatedUtc": "2025-11-17T20:58:29.4963790Z"
     },
     {
         "id": "4772d54b-e0cb-4031-9040-3320dac2265b",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 3 Entzug und Suspendierung",
-        "body": "<p>(1)&nbsp;Der&nbsp;Waffenschein&nbsp;kann&nbsp;auf&nbsp;Antrag&nbsp;dauerhaft&nbsp;durch&nbsp;einen&nbsp;Richter&nbsp;entzogen&nbsp;werden.</p><p>(2)&nbsp;Bei&nbsp;dringendem&nbsp;Tatverdacht&nbsp;kann&nbsp;ein&nbsp;Beamter&nbsp;der&nbsp;Exekutive&nbsp;den&nbsp;Waffenschein&nbsp;vorläufig&nbsp;bis&nbsp;zum&nbsp;Ende&nbsp;einer&nbsp;Ermittlungsmaßnahme&nbsp;entziehen.&nbsp;</p><p>(3)&nbsp;Gegen&nbsp;diese&nbsp;Entscheidung&nbsp;ist&nbsp;eine&nbsp;Beschwerde&nbsp;nach&nbsp;§&nbsp;13&nbsp;COCP&nbsp;zulässig.&nbsp;</p><p></p>",
+        "name": "§ 7 Entzug und Suspendierung",
+        "body": "<p>(1)&nbsp;Der&nbsp;Waffenschein&nbsp;kann&nbsp;auf&nbsp;Antrag&nbsp;dauerhaft&nbsp;durch&nbsp;einen&nbsp;Richter&nbsp;entzogen&nbsp;werden.</p><p>(2)&nbsp;Bei&nbsp;dringendem&nbsp;Tatverdacht&nbsp;kann&nbsp;ein&nbsp;Beamter&nbsp;der&nbsp;Exekutive&nbsp;den&nbsp;Waffenschein&nbsp;vorläufig&nbsp;bis&nbsp;zum&nbsp;Ende&nbsp;einer&nbsp;Ermittlungsmaßnahme&nbsp;entziehen.&nbsp;</p><p>(3)&nbsp;Gegen&nbsp;diese&nbsp;Entscheidung&nbsp;ist&nbsp;eine&nbsp;Beschwerde&nbsp;nach&nbsp;§&nbsp;11&nbsp;COCP&nbsp;zulässig.&nbsp;</p><p>&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-23T07:14:12.8746040Z"
+        "updatedUtc": "2025-11-17T20:58:48.2951970Z"
     },
     {
         "id": "352c1aff-a09b-4566-afde-83105284c963",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 4 Waffenhandel",
+        "name": "§ 8 Waffenhandel",
         "body": "<p>(1)&nbsp;Der&nbsp;Handel&nbsp;mit&nbsp;sämtlichen&nbsp;Waffen,&nbsp;ausgenommen&nbsp;legaler&nbsp;Stichwaffen,&nbsp;nach&nbsp;§&nbsp;1&nbsp;ist&nbsp;verboten&nbsp;und&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;6.000&nbsp;$&nbsp;bestraft.</p><p>(2)&nbsp;Der&nbsp;Versuch&nbsp;des&nbsp;Waffenhandels&nbsp;ist&nbsp;ebenfalls&nbsp;strafbar.</p><p>(3)&nbsp;Eine&nbsp;Ausnahme&nbsp;besteht&nbsp;nur&nbsp;für&nbsp;den&nbsp;Handel,&nbsp;der&nbsp;im&nbsp;Rahmen&nbsp;einer&nbsp;staatlich&nbsp;ausgestellten&nbsp;Lizenz&nbsp;erfolgt.</p><p></p>",
         "fineAmountMin": 3500.00,
         "fineAmountMax": 6000.00,
-        "updatedUtc": "2025-10-24T07:05:48.7731170Z"
+        "updatedUtc": "2025-11-17T20:58:55.9691460Z"
     },
     {
         "id": "f838a4e6-2487-4e33-bb49-395dca674347",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 5 Sonderbefugnisse für Beamte",
+        "name": "§ 9 Sonderbefugnisse für Beamte",
         "body": "<p>(1)&nbsp;Officer&nbsp;und&nbsp;Angestellte&nbsp;des&nbsp;DOJ&nbsp;sind&nbsp;von&nbsp;den&nbsp;Vorschriften&nbsp;dieses&nbsp;Gesetzes&nbsp;im&nbsp;Rahmen&nbsp;ihrer&nbsp;dienstlichen&nbsp;Tätigkeit&nbsp;ausgenommen,&nbsp;soweit&nbsp;dienstliche&nbsp;Belange&nbsp;dies&nbsp;erfordern.&nbsp;Die&nbsp;konkreten&nbsp;Grenzen&nbsp;und&nbsp;Regelungen&nbsp;werden&nbsp;durch&nbsp;interne&nbsp;Richtlinien&nbsp;der&nbsp;Exekutive&nbsp;und&nbsp;Judikative&nbsp;festgelegt.</p><p>(2)&nbsp;Den&nbsp;oben&nbsp;genannten&nbsp;Personen&nbsp;ist&nbsp;es&nbsp;zum&nbsp;Selbstschutz&nbsp;gestattet,&nbsp;auch&nbsp;außerhalb&nbsp;der&nbsp;Dienstzeit&nbsp;eine&nbsp;Kurzwaffe&nbsp;mit&nbsp;sich&nbsp;zu&nbsp;führen.</p><p></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-23T07:15:01.3742890Z"
+        "updatedUtc": "2025-11-17T20:59:04.1963990Z"
     },
     {
         "id": "9163fc33-696d-461d-92f4-93bf88772532",
