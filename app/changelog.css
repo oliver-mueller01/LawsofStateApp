@@ -1,0 +1,14 @@
+.changelog h1,
+.changelog h2,
+.changelog h3,
+.changelog h4,
+.changelog h5,
+.changelog h6,
+.changelog ul,
+.changelog ol,
+.changelog li,
+.changelog hr,
+.changelog p {
+    all: revert;
+    overflow-wrap: break-word;
+}

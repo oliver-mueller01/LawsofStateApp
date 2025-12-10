@@ -26,17 +26,20 @@ function parseHtmlToText(html: string): string {
 export default function GesetzePage() {
     const [categories, setCategories] = useState<any[]>([])
     const [lawData, setLawData] = useState<any[]>([])
+    const [changelogData, setChangelogData] = useState<any[]>([])
 
     useEffect(() => {
         async function loadData() {
-            const [catRes, lawRes] = await Promise.all([
+            const [catRes, lawRes, changelogRes] = await Promise.all([
                 fetch("/data/categories.json"),
                 fetch("/data/laws.json"),
+                fetch("/data/changelog.json"),
             ])
 
-            const [catData, lawData] = await Promise.all([catRes.json(), lawRes.json()])
+            const [catData, lawData, changelogData] = await Promise.all([catRes.json(), lawRes.json(), changelogRes.json()])
             setCategories(catData)
             setLawData(lawData)
+            setChangelogData(changelogData)
         }
 
         loadData()
@@ -61,7 +64,7 @@ export default function GesetzePage() {
                         Vollständige Gesetzessammlung des Staates San Andreas
                     </p>
                     <p className="mt-2 text-muted-foreground text-nd text-balance text-white">
-                        Letzte Aktualisierung: 17.11.2025 - 22:30 Uhr
+                        Letzte Aktualisierung: 10.12.2025 - 19:00 Uhr
                     </p>
                 </div>
 
@@ -74,6 +77,39 @@ export default function GesetzePage() {
                         ) : (
                         // Kategorien (nur eine offen)
                         <Accordion type="single" collapsible className="w-full">
+                            <AccordionItem key='3233' value='3233'>
+                                <AccordionTrigger className="text-2xl font-bold hover:no-underline">
+                                    <div className="">
+                                        <div>Changelog</div>
+                                    </div>
+                                </AccordionTrigger>
+
+                                <AccordionContent>
+                                    {/* Gesetze innerhalb der Kategorie */}
+                                    <Accordion type="multiple" className="w-full mt-2">
+                                        {changelogData.map((changelog) => {
+                                            return (
+                                                <AccordionItem key={changelog.id} value={changelog.id} className="border-l-2 border-primary/20 pl-3">
+                                                    <AccordionTrigger className="text-base font-medium hover:no-underline py-3">
+                                                        <div className="text-left flex items-start gap-3 w-full">
+                                                            <div className="flex-1">
+                                                                <div className="font-semibold">{changelog.title}</div>
+                                                            </div>
+                                                        </div>
+                                                    </AccordionTrigger>
+
+                                                    <AccordionContent>
+                                                        <div className="bg-muted/30 rounded-lg p-4 mt-2">
+                                                            <div className="changelog text-sm text-foreground whitespace-pre-wrap leading-relaxed" dangerouslySetInnerHTML={{ __html: changelog.body }}>
+                                                            </div>
+                                                        </div>
+                                                    </AccordionContent>
+                                                </AccordionItem>
+                                            )
+                                        })}
+                                    </Accordion>
+                                </AccordionContent>
+                            </AccordionItem>
                             {lawsByCategory.map((category) => (
                             <AccordionItem key={category.id} value={category.id}>
                                 <AccordionTrigger className="text-lg font-semibold hover:no-underline">
